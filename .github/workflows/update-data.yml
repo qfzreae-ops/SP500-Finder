@@ -12,7 +12,6 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     timeout-minutes: 15
 
     steps:
@@ -23,6 +22,8 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
 
       # =====================================================
@@ -63,28 +64,50 @@ jobs:
 
 
       # =====================================================
-      # 5. 변경된 data.json 확인
+      # 5. data.json 검증
       # =====================================================
 
       - name: Check generated data
         run: |
           test -f data.json
+
           python - <<'PY'
           import json
 
           with open("data.json", "r", encoding="utf-8") as f:
               data = json.load(f)
 
-          print("data.json 확인 완료")
+          print("========================================")
+          print("data.json 확인")
+          print("========================================")
+
           print("종목 수:", data.get("count"))
           print("전체 종목 수:", data.get("total"))
           print("성공률:", data.get("success_rate"))
           print("업데이트 시각:", data.get("updated_at_kst"))
+
+          stocks = data.get("stocks")
+
+          if not stocks:
+              raise SystemExit(
+                  "오류: stocks 데이터가 없습니다."
+              )
+
+          count = data.get("count", 0)
+
+          if count < 475:
+              raise SystemExit(
+                  f"오류: 종목 수가 너무 적습니다: {count}"
+              )
+
+          print()
+          print("데이터 검증 통과")
+          print("========================================")
           PY
 
 
       # =====================================================
-      # 6. data.json GitHub에 저장
+      # 6. data.json Git commit
       # =====================================================
 
       - name: Commit data
@@ -96,7 +119,26 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "변경된 data.json이 없습니다."
-          else
-            git commit -m "Update SP500 prices"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update SP500 prices"
+
+
+      # =====================================================
+      # 7. 최신 main 가져오기
+      # =====================================================
+
+      - name: Rebase latest main
+        run: |
+          git fetch origin main
+          git rebase origin/main
+
+
+      # =====================================================
+      # 8. GitHub에 push
+      # =====================================================
+
+      - name: Push data
+        run: |
+          git push origin HEAD:main
