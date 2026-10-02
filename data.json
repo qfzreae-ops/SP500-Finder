@@ -1,7 +1,7 @@
 {
   "service": "SP500 Finder",
-  "updated_at_utc": "2026-10-02T20:14:37.181762+00:00",
-  "updated_at_kst": "2026-10-02 20:14:37",
+  "updated_at_utc": "2026-10-02T20:45:43.331694+00:00",
+  "updated_at_kst": "2026-10-02 20:45:43",
   "count": 503,
   "total": 503,
   "success_rate": 1.0,
@@ -15,20 +15,20 @@
       "previous_close": 163.02000427246094,
       "change": -1.1300048828125,
       "change_pct": -0.6931694596964211,
-      "volume": 2186841,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3002405,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AOS",
       "name": "A. O. Smith",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 56.77000045776367,
+      "price": 56.75,
       "previous_close": 56.66999816894531,
-      "change": 0.10000228881835938,
-      "change_pct": 0.17646425277839484,
-      "volume": 785923,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.0800018310546875,
+      "change_pct": 0.14117140222271585,
+      "volume": 1089144,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ABT",
@@ -39,32 +39,32 @@
       "previous_close": 96.69000244140625,
       "change": 0.80999755859375,
       "change_pct": 0.8377262779413055,
-      "volume": 6558841,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 8629259,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ABBV",
       "name": "AbbVie",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 262.8999938964844,
+      "price": 262.82000732421875,
       "previous_close": 259.92999267578125,
-      "change": 2.970001220703125,
-      "change_pct": 1.1426158213329771,
-      "volume": 3880257,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.8900146484375,
+      "change_pct": 1.1118434693461117,
+      "volume": 5540046,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ACN",
       "name": "Accenture",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 198.94000244140625,
+      "price": 198.89999389648438,
       "previous_close": 212.3000030517578,
-      "change": -13.360000610351562,
-      "change_pct": -6.29298182680405,
-      "volume": 8836042,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -13.400009155273438,
+      "change_pct": -6.311827113825605,
+      "volume": 10004133,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ADBE",
@@ -75,8 +75,8 @@
       "previous_close": 241.27999877929688,
       "change": -3.589996337890625,
       "change_pct": -1.4878963677277115,
-      "volume": 2808328,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3099810,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AMD",
@@ -87,8 +87,8 @@
       "previous_close": 615.72998046875,
       "change": 18.17999267578125,
       "change_pct": 2.9525917613985557,
-      "volume": 18944695,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 19288383,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AES",
@@ -99,44 +99,44 @@
       "previous_close": 14.920000076293945,
       "change": -0.010000228881835938,
       "change_pct": -0.06702566240415157,
-      "volume": 6347201,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7249537,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AFL",
       "name": "Aflac",
       "sector": "Financials",
       "exchange": "US",
-      "price": 111.55000305175781,
+      "price": 111.54000091552734,
       "previous_close": 111.18000030517578,
-      "change": 0.37000274658203125,
-      "change_pct": 0.3327961374045854,
-      "volume": 1364453,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.3600006103515625,
+      "change_pct": 0.32379979255567903,
+      "volume": 1863376,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "A",
       "name": "Agilent Technologies",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 167.7100067138672,
+      "price": 167.77999877929688,
       "previous_close": 166.67999267578125,
-      "change": 1.0300140380859375,
-      "change_pct": 0.6179590132869015,
-      "volume": 1549846,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.100006103515625,
+      "change_pct": 0.6599508950395201,
+      "volume": 2092727,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "APD",
       "name": "Air Products",
       "sector": "Materials",
       "exchange": "US",
-      "price": 277.70001220703125,
+      "price": 277.57000732421875,
       "previous_close": 273.3299865722656,
-      "change": 4.370025634765625,
-      "change_pct": 1.598809442596682,
-      "volume": 676387,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 4.240020751953125,
+      "change_pct": 1.5512460982147334,
+      "volume": 1012256,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ABNB",
@@ -147,8 +147,8 @@
       "previous_close": 160.47000122070312,
       "change": 1.959991455078125,
       "change_pct": 1.2214067677250418,
-      "volume": 3095998,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3361155,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AKAM",
@@ -159,32 +159,32 @@
       "previous_close": 106.93000030517578,
       "change": 1.9899978637695312,
       "change_pct": 1.8610285776583957,
-      "volume": 4945665,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 5001495,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ALB",
       "name": "Albemarle Corporation",
       "sector": "Materials",
       "exchange": "US",
-      "price": 104.5999984741211,
+      "price": 104.58999633789062,
       "previous_close": 105.02999877929688,
-      "change": -0.43000030517578125,
-      "change_pct": -0.40940713146094154,
-      "volume": 1631753,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.44000244140625,
+      "change_pct": -0.4189302547083164,
+      "volume": 2001937,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ARE",
       "name": "Alexandria Real Estate Equities",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 47.34000015258789,
+      "price": 47.369998931884766,
       "previous_close": 47.029998779296875,
-      "change": 0.3100013732910156,
-      "change_pct": 0.6591566688015346,
-      "volume": 1701093,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.3400001525878906,
+      "change_pct": 0.7229431456790989,
+      "volume": 2065308,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ALGN",
@@ -195,20 +195,20 @@
       "previous_close": 145.35000610351562,
       "change": -1.6100006103515625,
       "change_pct": -1.1076715120362288,
-      "volume": 525816,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 549139,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ALLE",
       "name": "Allegion",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 154.27999877929688,
+      "price": 154.2100067138672,
       "previous_close": 154.27999877929688,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "volume": 727320,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.0699920654296875,
+      "change_pct": -0.04536690820811691,
+      "volume": 876253,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LNT",
@@ -219,20 +219,20 @@
       "previous_close": 63.709999084472656,
       "change": 0.6200027465820312,
       "change_pct": 0.9731639546250406,
-      "volume": 4434507,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 5101181,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ALL",
       "name": "Allstate",
       "sector": "Financials",
       "exchange": "US",
-      "price": 223.77000427246094,
+      "price": 223.74000549316406,
       "previous_close": 224.41000366210938,
-      "change": -0.6399993896484375,
-      "change_pct": -0.2851920053493135,
-      "volume": 1203919,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.6699981689453125,
+      "change_pct": -0.2985598493880506,
+      "volume": 1690324,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GOOGL",
@@ -243,8 +243,8 @@
       "previous_close": 338.239990234375,
       "change": 5.260009765625,
       "change_pct": 1.555111730573374,
-      "volume": 21329536,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 22710886,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GOOG",
@@ -255,20 +255,20 @@
       "previous_close": 334.92999267578125,
       "change": 5.420013427734375,
       "change_pct": 1.6182526337619019,
-      "volume": 16165726,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 17362207,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MO",
       "name": "Altria",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 67.35099792480469,
+      "price": 67.3499984741211,
       "previous_close": 66.94999694824219,
-      "change": 0.4010009765625,
-      "change_pct": 0.5989559295611417,
-      "volume": 3889167,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.40000152587890625,
+      "change_pct": 0.597463098001543,
+      "volume": 6281993,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AMZN",
@@ -279,32 +279,32 @@
       "previous_close": 248.22999572753906,
       "change": 3.290008544921875,
       "change_pct": 1.3253871818670284,
-      "volume": 30941984,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 32972889,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AMCR",
       "name": "Amcor",
       "sector": "Materials",
       "exchange": "US",
-      "price": 41.869998931884766,
+      "price": 41.86000061035156,
       "previous_close": 41.810001373291016,
-      "change": 0.05999755859375,
-      "change_pct": 0.1435004941953375,
-      "volume": 1754869,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.049999237060546875,
+      "change_pct": 0.11958678645843646,
+      "volume": 2375436,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AEE",
       "name": "Ameren",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 99.94999694824219,
+      "price": 99.94000244140625,
       "previous_close": 99.63999938964844,
-      "change": 0.30999755859375,
-      "change_pct": 0.3111175837943206,
-      "volume": 1844047,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.3000030517578125,
+      "change_pct": 0.3010869666755334,
+      "volume": 2403066,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AEP",
@@ -315,80 +315,80 @@
       "previous_close": 119.75,
       "change": -0.18000030517578125,
       "change_pct": -0.1503134072449113,
-      "volume": 5312593,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 5531664,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AXP",
       "name": "American Express",
       "sector": "Financials",
       "exchange": "US",
-      "price": 302.7699890136719,
+      "price": 302.7799987792969,
       "previous_close": 302.0899963378906,
-      "change": 0.67999267578125,
-      "change_pct": 0.22509605879854144,
-      "volume": 1851141,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.69000244140625,
+      "change_pct": 0.2284095632993009,
+      "volume": 2607459,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AIG",
       "name": "American International Group",
       "sector": "Financials",
       "exchange": "US",
-      "price": 74.94000244140625,
+      "price": 74.93000030517578,
       "previous_close": 75.43000030517578,
-      "change": -0.48999786376953125,
-      "change_pct": -0.649606074223904,
-      "volume": 3666077,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.5,
+      "change_pct": -0.662866230912227,
+      "volume": 4727555,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AMT",
       "name": "American Tower",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 162.19000244140625,
+      "price": 162.1999969482422,
       "previous_close": 161.05999755859375,
-      "change": 1.1300048828125,
-      "change_pct": 0.701604929803506,
-      "volume": 2007591,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.1399993896484375,
+      "change_pct": 0.7078103855264899,
+      "volume": 2876468,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AWK",
       "name": "American Water Works",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 130.22000122070312,
+      "price": 130.25,
       "previous_close": 127.86000061035156,
-      "change": 2.3600006103515625,
-      "change_pct": 1.8457692781838582,
-      "volume": 1565653,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.3899993896484375,
+      "change_pct": 1.8692314861876693,
+      "volume": 2147417,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AMP",
       "name": "Ameriprise Financial",
       "sector": "Financials",
       "exchange": "US",
-      "price": 490.989990234375,
+      "price": 490.9100036621094,
       "previous_close": 494.82000732421875,
-      "change": -3.83001708984375,
-      "change_pct": -0.7740222774246525,
-      "volume": 353005,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -3.910003662109375,
+      "change_pct": -0.7901870587757863,
+      "volume": 461237,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AME",
       "name": "Ametek",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 251.94000244140625,
+      "price": 251.92999267578125,
       "previous_close": 249.08999633789062,
-      "change": 2.850006103515625,
-      "change_pct": 1.1441672268723275,
-      "volume": 1201196,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.839996337890625,
+      "change_pct": 1.1401486931005327,
+      "volume": 1585886,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AMGN",
@@ -399,20 +399,20 @@
       "previous_close": 407.2699890136719,
       "change": -4.22998046875,
       "change_pct": -1.0386182588592359,
-      "volume": 2238342,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3502277,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "APH",
       "name": "Amphenol",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 86.94999694824219,
+      "price": 86.95999908447266,
       "previous_close": 85.66999816894531,
-      "change": 1.279998779296875,
-      "change_pct": 1.4941038947761578,
-      "volume": 7292367,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.2900009155273438,
+      "change_pct": 1.50577908614332,
+      "volume": 9025887,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ADI",
@@ -423,8 +423,8 @@
       "previous_close": 404.6000061035156,
       "change": 12.54998779296875,
       "change_pct": 3.101825903027267,
-      "volume": 2545966,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2623192,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AON",
@@ -435,8 +435,8 @@
       "previous_close": 275.95001220703125,
       "change": -6.5,
       "change_pct": -2.3554990804361267,
-      "volume": 1314264,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1595169,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "APA",
@@ -447,20 +447,20 @@
       "previous_close": 43.34000015258789,
       "change": 0.3400001525878906,
       "change_pct": 0.7844950424338859,
-      "volume": 3895928,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3956171,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "APO",
       "name": "Apollo Global Management",
       "sector": "Financials",
       "exchange": "US",
-      "price": 114.01499938964844,
+      "price": 114.0199966430664,
       "previous_close": 114.33999633789062,
-      "change": -0.3249969482421875,
-      "change_pct": -0.2842373260899679,
-      "volume": 2202889,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.31999969482421875,
+      "change_pct": -0.2798668052066182,
+      "volume": 2797855,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AAPL",
@@ -471,8 +471,8 @@
       "previous_close": 330.32000732421875,
       "change": 3.3699951171875,
       "change_pct": 1.020221313412527,
-      "volume": 29809148,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 31829263,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AMAT",
@@ -483,8 +483,8 @@
       "previous_close": 529.2999877929688,
       "change": 10.739990234375,
       "change_pct": 2.029093232961845,
-      "volume": 5499488,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 5695464,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "APP",
@@ -495,20 +495,20 @@
       "previous_close": 281.30999755859375,
       "change": -13.089996337890625,
       "change_pct": -4.6532282718335045,
-      "volume": 8418526,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 8823188,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "APTV",
       "name": "Aptiv",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 43.529998779296875,
+      "price": 43.540000915527344,
       "previous_close": 43.970001220703125,
-      "change": -0.44000244140625,
-      "change_pct": -1.0006878080300718,
-      "volume": 2166092,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.43000030517578125,
+      "change_pct": -0.9779401711122016,
+      "volume": 2709298,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ACGL",
@@ -519,92 +519,92 @@
       "previous_close": 94.26000213623047,
       "change": -0.660003662109375,
       "change_pct": -0.7001948304175681,
-      "volume": 2333667,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3008295,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ADM",
       "name": "Archer Daniels Midland",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 80.45999908447266,
+      "price": 80.44999694824219,
       "previous_close": 79.5199966430664,
-      "change": 0.94000244140625,
-      "change_pct": 1.182095675412999,
-      "volume": 2077799,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.9300003051757812,
+      "change_pct": 1.1695175357591905,
+      "volume": 3414148,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ARES",
       "name": "Ares Management",
       "sector": "Financials",
       "exchange": "US",
-      "price": 117.56999969482422,
+      "price": 117.55000305175781,
       "previous_close": 116.56999969482422,
-      "change": 1.0,
-      "change_pct": 0.8578536524131094,
-      "volume": 2094652,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.9800033569335938,
+      "change_pct": 0.8406994591225915,
+      "volume": 2588444,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ANET",
       "name": "Arista Networks",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 207.35499572753906,
+      "price": 207.35000610351562,
       "previous_close": 204.49000549316406,
-      "change": 2.864990234375,
-      "change_pct": 1.401041692705502,
-      "volume": 3221445,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.8600006103515625,
+      "change_pct": 1.3986016595061268,
+      "volume": 4109594,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AJG",
       "name": "Arthur J. Gallagher & Co.",
       "sector": "Financials",
       "exchange": "US",
-      "price": 226.2100067138672,
+      "price": 226.11000061035156,
       "previous_close": 231.82000732421875,
-      "change": -5.6100006103515625,
-      "change_pct": -2.4199812065856463,
-      "volume": 1077462,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -5.7100067138671875,
+      "change_pct": -2.4631207546643235,
+      "volume": 1392500,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AIZ",
       "name": "Assurant",
       "sector": "Financials",
       "exchange": "US",
-      "price": 267.4100036621094,
+      "price": 267.32000732421875,
       "previous_close": 266.239990234375,
-      "change": 1.170013427734375,
-      "change_pct": 0.43945818458917274,
-      "volume": 241131,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.08001708984375,
+      "change_pct": 0.40565547230263754,
+      "volume": 348799,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "T",
       "name": "AT&T",
       "sector": "Communication Services",
       "exchange": "US",
-      "price": 24.315000534057617,
+      "price": 24.299999237060547,
       "previous_close": 24.299999237060547,
-      "change": 0.015001296997070312,
-      "change_pct": 0.061733734436466375,
-      "volume": 18041104,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.0,
+      "change_pct": 0.0,
+      "volume": 24458196,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ATO",
       "name": "Atmos Energy",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 157.177001953125,
+      "price": 157.1699981689453,
       "previous_close": 156.3800048828125,
-      "change": 0.7969970703125,
-      "change_pct": 0.5096540768813448,
-      "volume": 530600,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.7899932861328125,
+      "change_pct": 0.5051753814209271,
+      "volume": 837696,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ADSK",
@@ -615,8 +615,8 @@
       "previous_close": 211.30999755859375,
       "change": 0.69000244140625,
       "change_pct": 0.3265356345550667,
-      "volume": 1291517,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1664193,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ADP",
@@ -627,32 +627,32 @@
       "previous_close": 263.9599914550781,
       "change": -6.279998779296875,
       "change_pct": -2.379147970371727,
-      "volume": 1711724,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2131099,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AZO",
       "name": "AutoZone",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 2793.77001953125,
+      "price": 2792.030029296875,
       "previous_close": 2819.030029296875,
-      "change": -25.260009765625,
-      "change_pct": -0.8960532347335574,
-      "volume": 129554,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -27.0,
+      "change_pct": -0.9577762464181471,
+      "volume": 169102,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AVY",
       "name": "Avery Dennison",
       "sector": "Materials",
       "exchange": "US",
-      "price": 169.77499389648438,
+      "price": 169.8699951171875,
       "previous_close": 171.6199951171875,
-      "change": -1.845001220703125,
-      "change_pct": -1.0750502698961741,
-      "volume": 447750,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.75,
+      "change_pct": -1.0196947032920292,
+      "volume": 630692,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AXON",
@@ -663,8 +663,8 @@
       "previous_close": 422.2099914550781,
       "change": -8.8599853515625,
       "change_pct": -2.098478371160285,
-      "volume": 800522,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 822502,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BKR",
@@ -675,8 +675,8 @@
       "previous_close": 55.619998931884766,
       "change": 0.3800010681152344,
       "change_pct": 0.683209412823981,
-      "volume": 3687528,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3965823,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BALL",
@@ -687,68 +687,68 @@
       "previous_close": 56.5,
       "change": -0.13000106811523438,
       "change_pct": -0.23009038604466261,
-      "volume": 1280889,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1832615,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BAC",
       "name": "Bank of America",
       "sector": "Financials",
       "exchange": "US",
-      "price": 53.779998779296875,
+      "price": 53.75,
       "previous_close": 53.72999954223633,
-      "change": 0.049999237060546875,
-      "change_pct": 0.09305646284482702,
-      "volume": 28776032,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.020000457763671875,
+      "change_pct": 0.03722400508853498,
+      "volume": 34832601,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BAX",
       "name": "Baxter International",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 23.485000610351562,
+      "price": 23.489999771118164,
       "previous_close": 23.639999389648438,
-      "change": -0.154998779296875,
-      "change_pct": -0.6556632119235434,
-      "volume": 3582054,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.14999961853027344,
+      "change_pct": -0.6345161692176514,
+      "volume": 4735307,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BDX",
       "name": "Becton Dickinson",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 176.80999755859375,
+      "price": 176.8000030517578,
       "previous_close": 178.07000732421875,
-      "change": -1.260009765625,
-      "change_pct": -0.7075923590719312,
-      "volume": 1106733,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.2700042724609375,
+      "change_pct": -0.7132050430865615,
+      "volume": 1857646,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BRK-B",
       "name": "Berkshire Hathaway",
       "sector": "Financials",
       "exchange": "US",
-      "price": 502.7300109863281,
+      "price": 502.6499938964844,
       "previous_close": 500.5,
-      "change": 2.230010986328125,
-      "change_pct": 0.445556640625,
-      "volume": 2844688,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.149993896484375,
+      "change_pct": 0.4295692100867882,
+      "volume": 4139526,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BBY",
       "name": "Best Buy",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 87.93000030517578,
+      "price": 87.97000122070312,
       "previous_close": 87.69999694824219,
-      "change": 0.23000335693359375,
-      "change_pct": 0.26226153356577037,
-      "volume": 1527222,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.2700042724609375,
+      "change_pct": 0.30787261329129306,
+      "volume": 2174912,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TECH",
@@ -759,8 +759,8 @@
       "previous_close": 72.4000015258789,
       "change": 0.0,
       "change_pct": 0.0,
-      "volume": 1847153,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1864298,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BIIB",
@@ -771,80 +771,80 @@
       "previous_close": 222.82000732421875,
       "change": -2.94000244140625,
       "change_pct": -1.3194517299913469,
-      "volume": 744006,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 773188,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BLK",
       "name": "BlackRock",
       "sector": "Financials",
       "exchange": "US",
-      "price": 1058.9300537109375,
+      "price": 1059.6300048828125,
       "previous_close": 1064.3599853515625,
-      "change": -5.429931640625,
-      "change_pct": -0.5101593178393935,
-      "volume": 365554,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -4.72998046875,
+      "change_pct": -0.44439668287488915,
+      "volume": 537742,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BX",
       "name": "Blackstone Inc.",
       "sector": "Financials",
       "exchange": "US",
-      "price": 111.7249984741211,
+      "price": 111.75,
       "previous_close": 112.23999786376953,
-      "change": -0.5149993896484375,
-      "change_pct": -0.45883766879033105,
-      "volume": 4595588,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.48999786376953125,
+      "change_pct": -0.4365626096716988,
+      "volume": 5689219,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "XYZ",
       "name": "Block, Inc.",
       "sector": "Financials",
       "exchange": "US",
-      "price": 74.3499984741211,
+      "price": 74.33000183105469,
       "previous_close": 74.04000091552734,
-      "change": 0.30999755859375,
-      "change_pct": 0.4186892960028836,
-      "volume": 3134291,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.29000091552734375,
+      "change_pct": 0.39168140456698186,
+      "volume": 3802060,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BE",
       "name": "Bloom Energy",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 289.25,
+      "price": 289.1499938964844,
       "previous_close": 277.5799865722656,
-      "change": 11.670013427734375,
-      "change_pct": 4.204198426494334,
-      "volume": 12108476,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 11.57000732421875,
+      "change_pct": 4.168170575657332,
+      "volume": 12813460,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BNY",
       "name": "BNY Mellon",
       "sector": "Financials",
       "exchange": "US",
-      "price": 145.38999938964844,
+      "price": 145.39999389648438,
       "previous_close": 143.9199981689453,
-      "change": 1.470001220703125,
-      "change_pct": 1.021401639386845,
-      "volume": 1955439,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.4799957275390625,
+      "change_pct": 1.0283461272711525,
+      "volume": 2828532,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BA",
       "name": "Boeing",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 193.57000732421875,
+      "price": 193.55999755859375,
       "previous_close": 192.27999877929688,
-      "change": 1.290008544921875,
-      "change_pct": 0.6709010573702856,
-      "volume": 11582091,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.279998779296875,
+      "change_pct": 0.6656952295730381,
+      "volume": 12560891,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BKNG",
@@ -855,20 +855,20 @@
       "previous_close": 160.27999877929688,
       "change": -1.2599945068359375,
       "change_pct": -0.7861208612628771,
-      "volume": 6768631,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7511186,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BSX",
       "name": "Boston Scientific",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 42.595001220703125,
+      "price": 42.599998474121094,
       "previous_close": 43.22999954223633,
-      "change": -0.6349983215332031,
-      "change_pct": -1.4688834796604628,
-      "volume": 16115161,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.6300010681152344,
+      "change_pct": -1.4573237908543448,
+      "volume": 18278971,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BMY",
@@ -879,8 +879,8 @@
       "previous_close": 61.459999084472656,
       "change": -0.30999755859375,
       "change_pct": -0.5043891363676708,
-      "volume": 5618704,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 9623867,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "AVGO",
@@ -891,68 +891,68 @@
       "previous_close": 343.6400146484375,
       "change": 11.5,
       "change_pct": 3.346525290940035,
-      "volume": 23262408,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 24474342,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BR",
       "name": "Broadridge Financial Solutions",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 157.0240020751953,
+      "price": 156.92999267578125,
       "previous_close": 161.14999389648438,
-      "change": -4.1259918212890625,
-      "change_pct": -2.560342524083133,
-      "volume": 537444,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -4.220001220703125,
+      "change_pct": -2.6186791067543367,
+      "volume": 741304,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BRO",
       "name": "Brown & Brown",
       "sector": "Financials",
       "exchange": "US",
-      "price": 59.900001525878906,
+      "price": 59.90999984741211,
       "previous_close": 61.77000045776367,
-      "change": -1.8699989318847656,
-      "change_pct": -3.0273578080405072,
-      "volume": 2101288,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.8600006103515625,
+      "change_pct": -3.0111714368909075,
+      "volume": 2515986,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BF-B",
       "name": "Brown–Forman",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 26.190000534057617,
+      "price": 26.15999984741211,
       "previous_close": 25.969999313354492,
-      "change": 0.220001220703125,
-      "change_pct": 0.8471360281861628,
-      "volume": 1274872,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.1900005340576172,
+      "change_pct": 0.7316154758614632,
+      "volume": 1700104,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BG",
       "name": "Bunge Global",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 106.69000244140625,
+      "price": 106.72000122070312,
       "previous_close": 106.61000061035156,
-      "change": 0.0800018310546875,
-      "change_pct": 0.07504158202482886,
-      "volume": 1609712,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.1100006103515625,
+      "change_pct": 0.1031803861943527,
+      "volume": 2002377,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BXP",
       "name": "BXP, Inc.",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 60.43000030517578,
+      "price": 60.45000076293945,
       "previous_close": 60.2400016784668,
-      "change": 0.18999862670898438,
-      "change_pct": 0.3154027579931172,
-      "volume": 683287,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.20999908447265625,
+      "change_pct": 0.34860404817638285,
+      "volume": 965299,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CHRW",
@@ -963,8 +963,8 @@
       "previous_close": 153.13999938964844,
       "change": 4.5800018310546875,
       "change_pct": 2.990728646538231,
-      "volume": 1483927,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1596281,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CDNS",
@@ -975,80 +975,80 @@
       "previous_close": 350.7300109863281,
       "change": 0.6199951171875,
       "change_pct": 0.176772759035915,
-      "volume": 2001917,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2092921,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CPT",
       "name": "Camden Property Trust",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 95.9800033569336,
+      "price": 95.95999908447266,
       "previous_close": 96.62000274658203,
-      "change": -0.6399993896484375,
-      "change_pct": -0.6623880888588338,
-      "volume": 807741,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.660003662109375,
+      "change_pct": -0.6830921582981666,
+      "volume": 1044869,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "COF",
       "name": "Capital One",
       "sector": "Financials",
       "exchange": "US",
-      "price": 194.74000549316406,
+      "price": 194.72000122070312,
       "previous_close": 194.47999572753906,
-      "change": 0.260009765625,
-      "change_pct": 0.13369486391251587,
-      "volume": 2229948,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.2400054931640625,
+      "change_pct": 0.12340883300938743,
+      "volume": 4284870,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CAH",
       "name": "Cardinal Health",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 228.31500244140625,
+      "price": 228.3000030517578,
       "previous_close": 230.08999633789062,
-      "change": -1.774993896484375,
-      "change_pct": -0.7714346232931265,
-      "volume": 1008833,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.7899932861328125,
+      "change_pct": -0.7779535462742068,
+      "volume": 1819525,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CCL",
       "name": "Carnival Corporation",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 25.780000686645508,
+      "price": 25.760000228881836,
       "previous_close": 25.06999969482422,
-      "change": 0.7100009918212891,
-      "change_pct": 2.8320741941128587,
-      "volume": 24551522,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.6900005340576172,
+      "change_pct": 2.7522957417509266,
+      "volume": 27297586,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CARR",
       "name": "Carrier Global",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 55.11000061035156,
+      "price": 55.119998931884766,
       "previous_close": 55.220001220703125,
-      "change": -0.1100006103515625,
-      "change_pct": -0.1992042881562288,
-      "volume": 4520912,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.10000228881835938,
+      "change_pct": -0.18109794749672414,
+      "volume": 5689215,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CVNA",
       "name": "Carvana",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 63.755001068115234,
+      "price": 63.77000045776367,
       "previous_close": 63.040000915527344,
-      "change": 0.7150001525878906,
-      "change_pct": 1.134200733191581,
-      "volume": 7401095,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.7299995422363281,
+      "change_pct": 1.1579941808924092,
+      "volume": 8565887,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CASY",
@@ -1059,44 +1059,44 @@
       "previous_close": 619.5,
       "change": -1.739990234375,
       "change_pct": -0.2808700943301049,
-      "volume": 580131,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 594043,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 845.5499877929688,
+      "price": 845.4199829101562,
       "previous_close": 826.3499755859375,
-      "change": 19.20001220703125,
-      "change_pct": 2.3234722302033295,
-      "volume": 1896023,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 19.07000732421875,
+      "change_pct": 2.307739806090856,
+      "volume": 2376662,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CBOE",
       "name": "Cboe Global Markets",
       "sector": "Financials",
       "exchange": "US",
-      "price": 271.05999755859375,
+      "price": 271.260009765625,
       "previous_close": 277.19000244140625,
-      "change": -6.1300048828125,
-      "change_pct": -2.2114812326639703,
-      "volume": 1019459,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -5.92999267578125,
+      "change_pct": -2.1393241543892842,
+      "volume": 1150369,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CBRE",
       "name": "CBRE Group",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 129.56900024414062,
+      "price": 129.5800018310547,
       "previous_close": 130.52999877929688,
-      "change": -0.96099853515625,
-      "change_pct": -0.7362281039940316,
-      "volume": 1516524,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.9499969482421875,
+      "change_pct": -0.7277997066777455,
+      "volume": 1898129,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CDW",
@@ -1107,20 +1107,20 @@
       "previous_close": 135.8300018310547,
       "change": -2.540008544921875,
       "change_pct": -1.8699908051839214,
-      "volume": 1264917,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1300280,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "COR",
       "name": "Cencora",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 309.0199890136719,
+      "price": 309.04998779296875,
       "previous_close": 309.7799987792969,
-      "change": -0.760009765625,
-      "change_pct": -0.24533855272123936,
-      "volume": 873354,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.730010986328125,
+      "change_pct": -0.23565465465968388,
+      "volume": 1161959,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CNC",
@@ -1131,44 +1131,44 @@
       "previous_close": 60.9900016784668,
       "change": 2.0,
       "change_pct": 3.2792260123942945,
-      "volume": 2650637,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3572097,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CNP",
       "name": "CenterPoint Energy",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 37.79499816894531,
+      "price": 37.790000915527344,
       "previous_close": 37.209999084472656,
-      "change": 0.5849990844726562,
-      "change_pct": 1.572155600285328,
-      "volume": 6975788,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.5800018310546875,
+      "change_pct": 1.5587257332041058,
+      "volume": 8722810,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CF",
       "name": "CF Industries",
       "sector": "Materials",
       "exchange": "US",
-      "price": 115.0999984741211,
+      "price": 115.01000213623047,
       "previous_close": 114.54000091552734,
-      "change": 0.55999755859375,
-      "change_pct": 0.48891003502500874,
-      "volume": 1492679,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.470001220703125,
+      "change_pct": 0.41033806263870076,
+      "volume": 1884871,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CRL",
       "name": "Charles River Laboratories",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 290.04998779296875,
+      "price": 290.19000244140625,
       "previous_close": 286.8299865722656,
-      "change": 3.220001220703125,
-      "change_pct": 1.1226166619409088,
-      "volume": 333583,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 3.360015869140625,
+      "change_pct": 1.1714311705321239,
+      "volume": 435364,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SCHW",
@@ -1179,8 +1179,8 @@
       "previous_close": 98.37000274658203,
       "change": -1.6700057983398438,
       "change_pct": -1.69767790150628,
-      "volume": 5835042,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7579626,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CHTR",
@@ -1191,80 +1191,80 @@
       "previous_close": 111.37000274658203,
       "change": -2.0800018310546875,
       "change_pct": -1.8676499773351432,
-      "volume": 1981248,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2033811,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CVX",
       "name": "Chevron Corporation",
       "sector": "Energy",
       "exchange": "US",
-      "price": 206.77000427246094,
+      "price": 206.69000244140625,
       "previous_close": 207.10000610351562,
-      "change": -0.3300018310546875,
-      "change_pct": -0.15934419185373727,
-      "volume": 5243054,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.410003662109375,
+      "change_pct": -0.19797375665186667,
+      "volume": 6641824,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CMG",
       "name": "Chipotle Mexican Grill",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 32.43000030517578,
+      "price": 32.36000061035156,
       "previous_close": 32.31999969482422,
-      "change": 0.1100006103515625,
-      "change_pct": 0.340348426331137,
-      "volume": 12382991,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.04000091552734375,
+      "change_pct": 0.1237652101022438,
+      "volume": 15056218,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CB",
       "name": "Chubb Limited",
       "sector": "Financials",
       "exchange": "US",
-      "price": 330.8399963378906,
+      "price": 330.8900146484375,
       "previous_close": 331.29998779296875,
-      "change": -0.459991455078125,
-      "change_pct": -0.13884439240172153,
-      "volume": 1596054,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.40997314453125,
+      "change_pct": -0.12374680339180832,
+      "volume": 1964503,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CHD",
       "name": "Church & Dwight",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 94.31999969482422,
+      "price": 94.30999755859375,
       "previous_close": 94.11000061035156,
-      "change": 0.20999908447265625,
-      "change_pct": 0.2231421561053072,
-      "volume": 1672019,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.1999969482421875,
+      "change_pct": 0.212514022893534,
+      "volume": 2154632,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CIEN",
       "name": "Ciena",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 391.3599853515625,
+      "price": 391.3399963378906,
       "previous_close": 379.1400146484375,
-      "change": 12.219970703125,
-      "change_pct": 3.223075969561305,
-      "volume": 2313320,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 12.199981689453125,
+      "change_pct": 3.21780377119142,
+      "volume": 2515214,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CI",
       "name": "Cigna",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 270.5150146484375,
+      "price": 270.5299987792969,
       "previous_close": 267.9599914550781,
-      "change": 2.555023193359375,
-      "change_pct": 0.9535092084027437,
-      "volume": 1467715,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.57000732421875,
+      "change_pct": 0.9591011368014604,
+      "volume": 1910757,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CINF",
@@ -1275,8 +1275,8 @@
       "previous_close": 162.14999389648438,
       "change": -0.1999969482421875,
       "change_pct": -0.12334070661135171,
-      "volume": 415252,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 557185,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CTAS",
@@ -1287,8 +1287,8 @@
       "previous_close": 195.60000610351562,
       "change": -2.5800018310546875,
       "change_pct": -1.3190192998712365,
-      "volume": 1806581,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1854447,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CSCO",
@@ -1299,44 +1299,44 @@
       "previous_close": 108.76000213623047,
       "change": 3.4399948120117188,
       "change_pct": 3.1629227146417795,
-      "volume": 15097653,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 16410350,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "C",
       "name": "Citigroup",
       "sector": "Financials",
       "exchange": "US",
-      "price": 128.52999877929688,
+      "price": 128.5,
       "previous_close": 127.0,
-      "change": 1.529998779296875,
-      "change_pct": 1.2047234482652558,
-      "volume": 6375639,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.5,
+      "change_pct": 1.1811023622047243,
+      "volume": 7605633,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CFG",
       "name": "Citizens Financial Group",
       "sector": "Financials",
       "exchange": "US",
-      "price": 64.31999969482422,
+      "price": 64.33000183105469,
       "previous_close": 63.70000076293945,
-      "change": 0.6199989318847656,
-      "change_pct": 0.9733107134364116,
-      "volume": 3321026,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.6300010681152344,
+      "change_pct": 0.9890126539555207,
+      "volume": 4971589,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CLX",
       "name": "Clorox",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 80.37999725341797,
+      "price": 80.41000366210938,
       "previous_close": 80.6500015258789,
-      "change": -0.2700042724609375,
-      "change_pct": -0.3347852044048613,
-      "volume": 1793901,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.23999786376953125,
+      "change_pct": -0.297579490674307,
+      "volume": 2190498,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CME",
@@ -1347,32 +1347,32 @@
       "previous_close": 265.1000061035156,
       "change": -1.959991455078125,
       "change_pct": -0.7393404036033074,
-      "volume": 1435377,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1492843,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CMS",
       "name": "CMS Energy",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 63.73500061035156,
+      "price": 63.7400016784668,
       "previous_close": 63.63999938964844,
-      "change": 0.095001220703125,
-      "change_pct": 0.14927910373075476,
-      "volume": 3989492,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.10000228881835938,
+      "change_pct": 0.1571374760802175,
+      "volume": 4999759,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 85.66999816894531,
+      "price": 85.6500015258789,
       "previous_close": 86.0999984741211,
-      "change": -0.43000030517578125,
-      "change_pct": -0.49941964320130106,
-      "volume": 13621564,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.4499969482421875,
+      "change_pct": -0.5226445484519284,
+      "volume": 19256408,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CTSH",
@@ -1383,20 +1383,20 @@
       "previous_close": 60.880001068115234,
       "change": -2.3700027465820312,
       "change_pct": -3.892908516756377,
-      "volume": 5669432,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6971443,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "COHR",
       "name": "Coherent Corp.",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 337.1499938964844,
+      "price": 337.0400085449219,
       "previous_close": 319.19000244140625,
-      "change": 17.959991455078125,
-      "change_pct": 5.626739972338276,
-      "volume": 6943718,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 17.850006103515625,
+      "change_pct": 5.592282329329019,
+      "volume": 7480773,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "COIN",
@@ -1407,20 +1407,20 @@
       "previous_close": 189.2899932861328,
       "change": -6.2899932861328125,
       "change_pct": -3.3229402024568673,
-      "volume": 12523895,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 12677806,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CL",
       "name": "Colgate-Palmolive",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 84.2699966430664,
+      "price": 84.26000213623047,
       "previous_close": 84.52999877929688,
-      "change": -0.26000213623046875,
-      "change_pct": -0.3075856382174095,
-      "volume": 3981871,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.26999664306640625,
+      "change_pct": -0.3194092593936414,
+      "volume": 6532912,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CMCSA",
@@ -1431,44 +1431,44 @@
       "previous_close": 21.700000762939453,
       "change": -0.13000106811523438,
       "change_pct": -0.5990832421409767,
-      "volume": 19751991,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 20609428,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 1729.5350341796875,
+      "price": 1728.010009765625,
       "previous_close": 1685.2900390625,
-      "change": 44.2449951171875,
-      "change_pct": 2.6253638300621702,
-      "volume": 228743,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 42.719970703125,
+      "change_pct": 2.5348735062179233,
+      "volume": 275211,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "COP",
       "name": "ConocoPhillips",
       "sector": "Energy",
       "exchange": "US",
-      "price": 126.76000213623047,
+      "price": 126.75,
       "previous_close": 127.05999755859375,
-      "change": -0.29999542236328125,
-      "change_pct": -0.2361053267177487,
-      "volume": 3997434,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.30999755859375,
+      "change_pct": -0.24397730564318212,
+      "volume": 5195512,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ED",
       "name": "Consolidated Edison",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 103.41000366210938,
+      "price": 103.38999938964844,
       "previous_close": 103.5,
-      "change": -0.089996337890625,
-      "change_pct": -0.0869529834692029,
-      "volume": 1664615,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.1100006103515625,
+      "change_pct": -0.10628078294836957,
+      "volume": 2619375,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "STZ",
@@ -1479,8 +1479,8 @@
       "previous_close": 112.98999786376953,
       "change": -0.1199951171875,
       "change_pct": -0.10619976940983436,
-      "volume": 1004414,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1518912,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CEG",
@@ -1491,8 +1491,8 @@
       "previous_close": 258.9200134277344,
       "change": -1.430023193359375,
       "change_pct": -0.5523030739987584,
-      "volume": 3180113,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3412773,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "COO",
@@ -1504,7 +1504,7 @@
       "change": -0.5,
       "change_pct": -0.8709284119995319,
       "volume": 3176237,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CPRT",
@@ -1515,32 +1515,32 @@
       "previous_close": 27.290000915527344,
       "change": -0.07000160217285156,
       "change_pct": -0.2565100763079211,
-      "volume": 6888995,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 8431793,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GLW",
       "name": "Corning Inc.",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 164.22999572753906,
+      "price": 164.19000244140625,
       "previous_close": 160.4199981689453,
-      "change": 3.80999755859375,
-      "change_pct": 2.3750140893165175,
-      "volume": 6157334,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 3.7700042724609375,
+      "change_pct": 2.3500837273982396,
+      "volume": 7463250,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CPAY",
       "name": "Corpay",
       "sector": "Financials",
       "exchange": "US",
-      "price": 394.6400146484375,
+      "price": 394.6000061035156,
       "previous_close": 389.7300109863281,
-      "change": 4.910003662109375,
-      "change_pct": 1.2598474645776303,
-      "volume": 452769,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 4.8699951171875,
+      "change_pct": 1.2495817565761804,
+      "volume": 575536,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CTVA",
@@ -1552,7 +1552,7 @@
       "change": -0.6499996185302734,
       "change_pct": -5.171039254662155,
       "volume": 78584789,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CSGP",
@@ -1563,8 +1563,8 @@
       "previous_close": 27.719999313354492,
       "change": -0.3400001525878906,
       "change_pct": -1.2265518073952146,
-      "volume": 3640695,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3733620,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "COST",
@@ -1575,20 +1575,20 @@
       "previous_close": 914.9400024414062,
       "change": 5.71002197265625,
       "change_pct": 0.6240870393052823,
-      "volume": 1904233,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2010097,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CRH",
       "name": "CRH plc",
       "sector": "Materials",
       "exchange": "US",
-      "price": 81.95999908447266,
+      "price": 81.94000244140625,
       "previous_close": 81.69999694824219,
-      "change": 0.26000213623046875,
-      "change_pct": 0.3182400807128339,
-      "volume": 3943842,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.2400054931640625,
+      "change_pct": 0.2937643844908691,
+      "volume": 5358432,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CRWD",
@@ -1600,19 +1600,19 @@
       "change": 3.95001220703125,
       "change_pct": 1.4844647530512132,
       "volume": 5823968,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CCI",
       "name": "Crown Castle",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 66.44999694824219,
+      "price": 66.44000244140625,
       "previous_close": 66.12000274658203,
-      "change": 0.32999420166015625,
-      "change_pct": 0.49908376883304767,
-      "volume": 2124467,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.31999969482421875,
+      "change_pct": 0.4839680603926784,
+      "volume": 2952824,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CSX",
@@ -1623,8 +1623,8 @@
       "previous_close": 46.540000915527344,
       "change": 0.8899993896484375,
       "change_pct": 1.9123321275043275,
-      "volume": 10373035,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 10691341,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CMI",
@@ -1636,7 +1636,7 @@
       "change": 11.32000732421875,
       "change_pct": 2.1895565424020793,
       "volume": 1040589,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CVS",
@@ -1648,31 +1648,31 @@
       "change": 1.2600021362304688,
       "change_pct": 1.4788757997208646,
       "volume": 10445657,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DHR",
       "name": "Danaher Corporation",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 214.0500030517578,
+      "price": 214.05999755859375,
       "previous_close": 211.75999450683594,
-      "change": 2.290008544921875,
-      "change_pct": 1.0814169835313014,
-      "volume": 2980810,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.3000030517578125,
+      "change_pct": 1.0861367167647735,
+      "volume": 3893993,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DRI",
       "name": "Darden Restaurants",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 200.39999389648438,
+      "price": 200.3300018310547,
       "previous_close": 197.41000366210938,
-      "change": 2.989990234375,
-      "change_pct": 1.5146092796253237,
-      "volume": 899650,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.9199981689453125,
+      "change_pct": 1.4791541030226794,
+      "volume": 1095665,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DDOG",
@@ -1684,7 +1684,7 @@
       "change": 0.760009765625,
       "change_pct": 0.2749076861447034,
       "volume": 2067516,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DVA",
@@ -1696,67 +1696,67 @@
       "change": 2.339996337890625,
       "change_pct": 1.3269045970529036,
       "volume": 445129,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DECK",
       "name": "Deckers Brands",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 79.1449966430664,
+      "price": 79.12000274658203,
       "previous_close": 79.56999969482422,
-      "change": -0.4250030517578125,
-      "change_pct": -0.5341247371972249,
-      "volume": 1994666,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.4499969482421875,
+      "change_pct": -0.5655359431545384,
+      "volume": 2689945,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DE",
       "name": "Deere & Company",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 687.260009765625,
+      "price": 687.0,
       "previous_close": 667.260009765625,
-      "change": 20.0,
-      "change_pct": 2.99733233031978,
-      "volume": 838771,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 19.739990234375,
+      "change_pct": 2.9583655464844463,
+      "volume": 1063543,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DELL",
       "name": "Dell Technologies",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 562.5380249023438,
+      "price": 562.52001953125,
       "previous_close": 541.739990234375,
-      "change": 20.79803466796875,
-      "change_pct": 3.8391174812423983,
-      "volume": 4807233,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 20.780029296875,
+      "change_pct": 3.835793862639688,
+      "volume": 5360539,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DAL",
       "name": "Delta Air Lines",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 84.12000274658203,
+      "price": 84.08999633789062,
       "previous_close": 84.12999725341797,
-      "change": -0.0099945068359375,
-      "change_pct": -0.011879837349610102,
-      "volume": 6076206,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.04000091552734375,
+      "change_pct": -0.04754655513282883,
+      "volume": 8143182,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DVN",
       "name": "Devon Energy",
       "sector": "Energy",
       "exchange": "US",
-      "price": 47.67499923706055,
+      "price": 47.650001525878906,
       "previous_close": 47.15999984741211,
-      "change": 0.5149993896484375,
-      "change_pct": 1.0920258509642424,
-      "volume": 5095018,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.4900016784667969,
+      "change_pct": 1.039019677803679,
+      "volume": 7832063,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DXCM",
@@ -1768,7 +1768,7 @@
       "change": -0.8700027465820312,
       "change_pct": -1.0089327527691392,
       "volume": 2172922,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FANG",
@@ -1779,32 +1779,32 @@
       "previous_close": 185.50999450683594,
       "change": -0.79998779296875,
       "change_pct": -0.43123703124214735,
-      "volume": 2080185,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2134912,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DLR",
       "name": "Digital Realty",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 178.5399932861328,
+      "price": 178.5500030517578,
       "previous_close": 176.49000549316406,
-      "change": 2.04998779296875,
-      "change_pct": 1.161531944678959,
-      "volume": 1148570,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.05999755859375,
+      "change_pct": 1.1672035211498362,
+      "volume": 1685094,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
       "sector": "Consumer Staples",
       "exchange": "US",
-      "price": 118.91999816894531,
+      "price": 118.94000244140625,
       "previous_close": 118.93000030517578,
-      "change": -0.01000213623046875,
-      "change_pct": -0.0084101035943859,
-      "volume": 1196442,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.01000213623046875,
+      "change_pct": 0.0084101035943859,
+      "volume": 1601099,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DLTR",
@@ -1815,8 +1815,8 @@
       "previous_close": 114.43000030517578,
       "change": -2.2699966430664062,
       "change_pct": -1.983742582375692,
-      "volume": 1596179,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1620621,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "D",
@@ -1827,8 +1827,8 @@
       "previous_close": 60.7599983215332,
       "change": 0.5500030517578125,
       "change_pct": 0.9052058376421855,
-      "volume": 2790236,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3729704,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DPZ",
@@ -1839,8 +1839,8 @@
       "previous_close": 295.0,
       "change": 2.614990234375,
       "change_pct": 0.8864373675847458,
-      "volume": 572808,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 578577,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DASH",
@@ -1851,20 +1851,20 @@
       "previous_close": 182.1750030517578,
       "change": 6.9749908447265625,
       "change_pct": 3.8287310157172856,
-      "volume": 4168512,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 4231986,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DOV",
       "name": "Dover Corporation",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 189.6750030517578,
+      "price": 189.69000244140625,
       "previous_close": 188.05999755859375,
-      "change": 1.6150054931640625,
-      "change_pct": 0.8587714102574504,
-      "volume": 617808,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.6300048828125,
+      "change_pct": 0.866747263625078,
+      "volume": 831541,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DOW",
@@ -1876,7 +1876,7 @@
       "change": 0.37999916076660156,
       "change_pct": 1.3773075703696882,
       "volume": 7340439,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DHI",
@@ -1888,19 +1888,19 @@
       "change": -2.05999755859375,
       "change_pct": -1.5029896361358768,
       "volume": 2818314,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DTE",
       "name": "DTE Energy",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 124.43000030517578,
+      "price": 124.44999694824219,
       "previous_close": 123.2699966430664,
-      "change": 1.160003662109375,
-      "change_pct": 0.9410267653922435,
-      "volume": 1213011,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.1800003051757812,
+      "change_pct": 0.9572485903382663,
+      "volume": 1703937,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DUK",
@@ -1911,8 +1911,8 @@
       "previous_close": 113.73999786376953,
       "change": 0.3899993896484375,
       "change_pct": 0.34288675661446183,
-      "volume": 2689844,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3876195,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DD",
@@ -1924,7 +1924,7 @@
       "change": 0.779998779296875,
       "change_pct": 0.6037142397219594,
       "volume": 644991,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ETN",
@@ -1936,7 +1936,7 @@
       "change": -1.170013427734375,
       "change_pct": -0.2675661889408534,
       "volume": 2087525,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EBAY",
@@ -1948,7 +1948,7 @@
       "change": 0.5100021362304688,
       "change_pct": 0.4816339023232872,
       "volume": 2967734,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ECHO",
@@ -1960,7 +1960,7 @@
       "change": 6.0,
       "change_pct": 6.79886685552408,
       "volume": 4940854,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ECL",
@@ -1972,7 +1972,7 @@
       "change": 2.44000244140625,
       "change_pct": 0.8995068766363569,
       "volume": 1211530,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EIX",
@@ -1984,7 +1984,7 @@
       "change": 0.09000015258789062,
       "change_pct": 0.16728653134606983,
       "volume": 5842773,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EW",
@@ -1996,7 +1996,7 @@
       "change": -0.04000091552734375,
       "change_pct": -0.04695494116795736,
       "volume": 2401078,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ELV",
@@ -2008,7 +2008,7 @@
       "change": 4.759979248046875,
       "change_pct": 1.2471451988847777,
       "volume": 888661,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EME",
@@ -2020,7 +2020,7 @@
       "change": 17.5799560546875,
       "change_pct": 2.285990843655465,
       "volume": 369312,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EMR",
@@ -2032,7 +2032,7 @@
       "change": 3.0399932861328125,
       "change_pct": 1.9171300660389814,
       "volume": 2887920,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ETR",
@@ -2044,7 +2044,7 @@
       "change": 0.5100021362304688,
       "change_pct": 0.5079702474894999,
       "volume": 2640114,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EOG",
@@ -2056,7 +2056,7 @@
       "change": 0.07000732421875,
       "change_pct": 0.04954166402113317,
       "volume": 3585129,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EQT",
@@ -2068,7 +2068,7 @@
       "change": 0.07999801635742188,
       "change_pct": 0.15970855682516663,
       "volume": 7507413,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EFX",
@@ -2080,7 +2080,7 @@
       "change": 0.2700042724609375,
       "change_pct": 0.19323286389231814,
       "volume": 3465427,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EQIX",
@@ -2092,7 +2092,7 @@
       "change": 13.38995361328125,
       "change_pct": 1.3226866127879422,
       "volume": 330013,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ERIE",
@@ -2104,7 +2104,7 @@
       "change": -1.0200042724609375,
       "change_pct": -0.4592338344324869,
       "volume": 139463,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ESS",
@@ -2116,7 +2116,7 @@
       "change": -0.860015869140625,
       "change_pct": -0.3191034981923394,
       "volume": 462579,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EL",
@@ -2128,7 +2128,7 @@
       "change": 1.779998779296875,
       "change_pct": 1.9736098582027282,
       "volume": 2688925,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EG",
@@ -2140,7 +2140,7 @@
       "change": -0.45001220703125,
       "change_pct": -0.12204713754106551,
       "volume": 390652,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EVRG",
@@ -2152,7 +2152,7 @@
       "change": 0.37999725341796875,
       "change_pct": 0.48229121589346463,
       "volume": 2214104,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "P",
@@ -2164,7 +2164,7 @@
       "change": 6.0099945068359375,
       "change_pct": 4.480723393760244,
       "volume": 4864176,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ES",
@@ -2176,7 +2176,7 @@
       "change": 0.19000244140625,
       "change_pct": 0.295447750924164,
       "volume": 2432004,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EXC",
@@ -2188,7 +2188,7 @@
       "change": 0.2599983215332031,
       "change_pct": 0.6424470316057131,
       "volume": 9774813,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EXE",
@@ -2200,7 +2200,7 @@
       "change": -0.44000244140625,
       "change_pct": -0.5118688297958923,
       "volume": 2893974,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EXPE",
@@ -2212,7 +2212,7 @@
       "change": 2.329986572265625,
       "change_pct": 0.8870394232901844,
       "volume": 1426152,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EXPD",
@@ -2224,7 +2224,7 @@
       "change": 4.7299957275390625,
       "change_pct": 2.5194394317365085,
       "volume": 1542035,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "EXR",
@@ -2236,7 +2236,7 @@
       "change": 0.1699981689453125,
       "change_pct": 0.12774133348835198,
       "volume": 996488,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "XOM",
@@ -2248,7 +2248,7 @@
       "change": 0.1899871826171875,
       "change_pct": 0.1159731254566366,
       "volume": 11160418,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FFIV",
@@ -2260,7 +2260,7 @@
       "change": 10.360015869140625,
       "change_pct": 2.3350198431668288,
       "volume": 628123,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FDS",
@@ -2272,7 +2272,7 @@
       "change": -11.6099853515625,
       "change_pct": -4.1821209481567205,
       "volume": 564818,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FICO",
@@ -2284,7 +2284,7 @@
       "change": -0.5,
       "change_pct": -0.07555723460521345,
       "volume": 1632526,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FAST",
@@ -2296,7 +2296,7 @@
       "change": 0.5200004577636719,
       "change_pct": 1.035238826403781,
       "volume": 7113439,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FRT",
@@ -2308,7 +2308,7 @@
       "change": -1.339996337890625,
       "change_pct": -1.2403928103602138,
       "volume": 1092368,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FDX",
@@ -2320,7 +2320,7 @@
       "change": 3.28997802734375,
       "change_pct": 1.146054252762124,
       "volume": 1458496,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FDXF",
@@ -2332,7 +2332,7 @@
       "change": 2.220001220703125,
       "change_pct": 2.0059648119937092,
       "volume": 1552279,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FERG",
@@ -2344,7 +2344,7 @@
       "change": 1.839996337890625,
       "change_pct": 0.8307356053352094,
       "volume": 1839215,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FIS",
@@ -2356,7 +2356,7 @@
       "change": -0.6599998474121094,
       "change_pct": -1.9939573348564463,
       "volume": 6957777,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FITB",
@@ -2368,7 +2368,7 @@
       "change": 0.45999908447265625,
       "change_pct": 0.9125155442670988,
       "volume": 5573175,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FSLR",
@@ -2380,7 +2380,7 @@
       "change": 2.5,
       "change_pct": 1.4525594045286625,
       "volume": 1866650,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FE",
@@ -2392,7 +2392,7 @@
       "change": -0.049999237060546875,
       "change_pct": -0.11523216815825815,
       "volume": 5645991,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FISV",
@@ -2404,7 +2404,7 @@
       "change": -1.0200004577636719,
       "change_pct": -2.2476871612071023,
       "volume": 6346463,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FLEX",
@@ -2416,7 +2416,7 @@
       "change": 3.8300018310546875,
       "change_pct": 3.395993857518789,
       "volume": 1941595,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "F",
@@ -2428,7 +2428,7 @@
       "change": -0.1700000762939453,
       "change_pct": -1.3854936426378055,
       "volume": 48860679,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FTNT",
@@ -2440,19 +2440,19 @@
       "change": 2.2299957275390625,
       "change_pct": 1.2477594630190376,
       "volume": 3401344,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FTV",
       "name": "Fortive",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 57.48500061035156,
+      "price": 57.470001220703125,
       "previous_close": 55.84000015258789,
-      "change": 1.6450004577636719,
-      "change_pct": 2.9459177171714868,
-      "volume": 1792417,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.6300010681152344,
+      "change_pct": 2.9190563460979724,
+      "volume": 2581623,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FOXA",
@@ -2464,7 +2464,7 @@
       "change": 1.0,
       "change_pct": 1.6318538184074587,
       "volume": 4680246,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FOX",
@@ -2476,7 +2476,7 @@
       "change": 0.970001220703125,
       "change_pct": 1.766207671236987,
       "volume": 826321,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "BEN",
@@ -2488,7 +2488,7 @@
       "change": 0.3100013732910156,
       "change_pct": 0.9538503793569711,
       "volume": 5052030,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "FCX",
@@ -2500,7 +2500,7 @@
       "change": 2.7600021362304688,
       "change_pct": 3.9838368719129478,
       "volume": 11923372,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GRMN",
@@ -2512,7 +2512,7 @@
       "change": -1.29998779296875,
       "change_pct": -0.46023785041978144,
       "volume": 830217,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IT",
@@ -2524,7 +2524,7 @@
       "change": -8.0,
       "change_pct": -4.149377527682079,
       "volume": 627590,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GE",
@@ -2536,7 +2536,7 @@
       "change": -2.83001708984375,
       "change_pct": -0.905924311642496,
       "volume": 4145492,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GEHC",
@@ -2548,7 +2548,7 @@
       "change": 0.3100013732910156,
       "change_pct": 0.4845285644092081,
       "volume": 2956660,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GEV",
@@ -2560,7 +2560,7 @@
       "change": 1.25,
       "change_pct": 0.1265886864699255,
       "volume": 2127014,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GEN",
@@ -2572,7 +2572,7 @@
       "change": -0.26000022888183594,
       "change_pct": -1.1685403545251054,
       "volume": 11818939,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GNRC",
@@ -2584,7 +2584,7 @@
       "change": 8.889999389648438,
       "change_pct": 4.275888236766261,
       "volume": 1109076,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GD",
@@ -2596,7 +2596,7 @@
       "change": -2.6300048828125,
       "change_pct": -0.790455900806498,
       "volume": 1412532,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GIS",
@@ -2608,7 +2608,7 @@
       "change": 0.3399982452392578,
       "change_pct": 1.0735656596785355,
       "volume": 13799849,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GM",
@@ -2620,7 +2620,7 @@
       "change": -1.0400009155273438,
       "change_pct": -1.3113112439059116,
       "volume": 9074604,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GPC",
@@ -2632,7 +2632,7 @@
       "change": 2.1199951171875,
       "change_pct": 1.694369461836839,
       "volume": 775943,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GILD",
@@ -2644,7 +2644,7 @@
       "change": -2.7599945068359375,
       "change_pct": -1.8711827164989407,
       "volume": 4780547,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GPN",
@@ -2656,7 +2656,7 @@
       "change": -1.910003662109375,
       "change_pct": -2.378881106401878,
       "volume": 2503028,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GL",
@@ -2668,7 +2668,7 @@
       "change": -0.1500091552734375,
       "change_pct": -0.09045959935902596,
       "volume": 295595,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GDDY",
@@ -2680,7 +2680,7 @@
       "change": 0.2299957275390625,
       "change_pct": 0.23715788778905927,
       "volume": 1715926,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GS",
@@ -2692,7 +2692,7 @@
       "change": 5.8900146484375,
       "change_pct": 0.6568765276742472,
       "volume": 1583478,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HAL",
@@ -2704,7 +2704,7 @@
       "change": -0.029998779296875,
       "change_pct": -0.09409905924274069,
       "volume": 8087590,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HIG",
@@ -2716,7 +2716,7 @@
       "change": 0.31000518798828125,
       "change_pct": 0.24654461050981577,
       "volume": 1573619,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HAS",
@@ -2728,7 +2728,7 @@
       "change": -0.44000244140625,
       "change_pct": -0.48900025004538383,
       "volume": 1817765,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HCA",
@@ -2740,7 +2740,7 @@
       "change": 3.29998779296875,
       "change_pct": 0.7794203166810393,
       "volume": 926343,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DOC",
@@ -2752,7 +2752,7 @@
       "change": 0.049999237060546875,
       "change_pct": 0.2571977144391095,
       "volume": 4854238,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HSIC",
@@ -2764,7 +2764,7 @@
       "change": -0.0500030517578125,
       "change_pct": -0.05887560529628919,
       "volume": 1131677,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HSY",
@@ -2776,7 +2776,7 @@
       "change": 0.8899993896484375,
       "change_pct": 0.5586938936587903,
       "volume": 1184676,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HPE",
@@ -2788,7 +2788,7 @@
       "change": 4.75,
       "change_pct": 7.355218125304945,
       "volume": 28952565,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HLT",
@@ -2800,7 +2800,7 @@
       "change": 3.91998291015625,
       "change_pct": 1.2427031701169216,
       "volume": 1109032,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HD",
@@ -2812,7 +2812,7 @@
       "change": 0.3900146484375,
       "change_pct": 0.13807783765352383,
       "volume": 4721269,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HONA",
@@ -2824,7 +2824,7 @@
       "change": 0.55999755859375,
       "change_pct": 0.36346954759034544,
       "volume": 1778177,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HON",
@@ -2836,7 +2836,7 @@
       "change": 0.19000244140625,
       "change_pct": 0.08886924167173806,
       "volume": 1791433,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HRL",
@@ -2848,7 +2848,7 @@
       "change": 0.29000091552734375,
       "change_pct": 1.4529104650758333,
       "volume": 6381790,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HST",
@@ -2860,7 +2860,7 @@
       "change": 0.049999237060546875,
       "change_pct": 0.2221201090722092,
       "volume": 6570724,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HWM",
@@ -2872,7 +2872,7 @@
       "change": 2.8899993896484375,
       "change_pct": 1.2654345073384898,
       "volume": 2239604,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HPQ",
@@ -2884,7 +2884,7 @@
       "change": -0.030002593994140625,
       "change_pct": -0.0933206611825205,
       "volume": 10283053,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HUBB",
@@ -2895,8 +2895,8 @@
       "previous_close": 466.9800109863281,
       "change": 8.53997802734375,
       "change_pct": 1.8287673618633273,
-      "volume": 439571,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 460405,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HUM",
@@ -2908,7 +2908,7 @@
       "change": 8.67999267578125,
       "change_pct": 2.2861338082655633,
       "volume": 755960,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HBAN",
@@ -2920,7 +2920,7 @@
       "change": 0.1400003433227539,
       "change_pct": 0.9216612718248749,
       "volume": 20582796,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HII",
@@ -2932,7 +2932,7 @@
       "change": -5.78997802734375,
       "change_pct": -2.1105888203069334,
       "volume": 655071,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IBM",
@@ -2943,20 +2943,20 @@
       "previous_close": 225.6199951171875,
       "change": -2.9799957275390625,
       "change_pct": -1.320803028114262,
-      "volume": 5867856,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7573988,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IEX",
       "name": "IDEX Corporation",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 233.07000732421875,
+      "price": 232.99000549316406,
       "previous_close": 229.85000610351562,
-      "change": 3.220001220703125,
-      "change_pct": 1.4009141332164943,
-      "volume": 453551,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 3.1399993896484375,
+      "change_pct": 1.3661080297010313,
+      "volume": 617631,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IDXX",
@@ -2968,7 +2968,7 @@
       "change": 0.6400146484375,
       "change_pct": 0.12361461099710284,
       "volume": 287634,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ITW",
@@ -2979,8 +2979,8 @@
       "previous_close": 260.8399963378906,
       "change": 2.08001708984375,
       "change_pct": 0.7974302710652196,
-      "volume": 941000,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1133396,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ILMN",
@@ -2992,7 +2992,7 @@
       "change": 7.32000732421875,
       "change_pct": 2.7547822108200504,
       "volume": 2616112,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "INCY",
@@ -3004,19 +3004,19 @@
       "change": -1.839996337890625,
       "change_pct": -1.5707669006981606,
       "volume": 2167818,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IR",
       "name": "Ingersoll Rand",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 76.08999633789062,
+      "price": 76.06999969482422,
       "previous_close": 75.25,
-      "change": 0.839996337890625,
-      "change_pct": 1.1162742031769102,
-      "volume": 3283747,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.8199996948242188,
+      "change_pct": 1.0897005911285298,
+      "volume": 4139908,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PODD",
@@ -3028,7 +3028,7 @@
       "change": 0.9000091552734375,
       "change_pct": 0.6881330388208394,
       "volume": 2907972,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "INTC",
@@ -3040,7 +3040,7 @@
       "change": -0.6699981689453125,
       "change_pct": -0.5583318074544271,
       "volume": 94636932,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IBKR",
@@ -3052,7 +3052,7 @@
       "change": 2.4900054931640625,
       "change_pct": 2.901766185768516,
       "volume": 4865245,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ICE",
@@ -3063,8 +3063,8 @@
       "previous_close": 151.47000122070312,
       "change": -1.32000732421875,
       "change_pct": -0.8714645233912691,
-      "volume": 1859073,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1947714,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IFF",
@@ -3075,8 +3075,8 @@
       "previous_close": 83.12000274658203,
       "change": -0.7000045776367188,
       "change_pct": -0.8421613985876625,
-      "volume": 1792740,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1853835,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IP",
@@ -3088,7 +3088,7 @@
       "change": -0.5500011444091797,
       "change_pct": -1.6912704079555907,
       "volume": 5595839,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "INTU",
@@ -3100,7 +3100,7 @@
       "change": -1.70001220703125,
       "change_pct": -0.6011783769608364,
       "volume": 2727378,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ISRG",
@@ -3112,7 +3112,7 @@
       "change": -9.28997802734375,
       "change_pct": -2.315317080412953,
       "volume": 1822150,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IVZ",
@@ -3123,32 +3123,32 @@
       "previous_close": 30.420000076293945,
       "change": 0.23999977111816406,
       "change_pct": 0.7889538807239974,
-      "volume": 3770427,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3872191,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "INVH",
       "name": "Invitation Homes",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 26.05500030517578,
+      "price": 26.040000915527344,
       "previous_close": 26.399999618530273,
-      "change": -0.3449993133544922,
-      "change_pct": -1.3068155997712048,
-      "volume": 4278059,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.3599987030029297,
+      "change_pct": -1.3636314704726171,
+      "volume": 5798221,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IQV",
       "name": "IQVIA",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 258.3399963378906,
+      "price": 258.2099914550781,
       "previous_close": 260.7200012207031,
-      "change": -2.3800048828125,
-      "change_pct": -0.9128585730550809,
-      "volume": 1035081,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -2.510009765625,
+      "change_pct": -0.9627223664747692,
+      "volume": 1360332,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "IRM",
@@ -3160,7 +3160,7 @@
       "change": 2.2600021362304688,
       "change_pct": 2.033656251315132,
       "volume": 1702568,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "JBHT",
@@ -3172,7 +3172,7 @@
       "change": 7.0,
       "change_pct": 3.080985956876862,
       "volume": 1005574,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "JBL",
@@ -3184,7 +3184,7 @@
       "change": 4.6199951171875,
       "change_pct": 1.5410770824589437,
       "volume": 1376101,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "JKHY",
@@ -3196,7 +3196,7 @@
       "change": -1.3000030517578125,
       "change_pct": -0.9037841246213679,
       "volume": 689282,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "J",
@@ -3207,8 +3207,8 @@
       "previous_close": 139.7899932861328,
       "change": -1.7299957275390625,
       "change_pct": -1.2375676447726665,
-      "volume": 702580,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 722351,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "JNJ",
@@ -3219,8 +3219,8 @@
       "previous_close": 258.6600036621094,
       "change": -2.6300048828125,
       "change_pct": -1.0167806562966366,
-      "volume": 7848264,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 10169693,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "JCI",
@@ -3231,8 +3231,8 @@
       "previous_close": 151.77000427246094,
       "change": 4.470001220703125,
       "change_pct": 2.9452468174663013,
-      "volume": 3123544,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3214821,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "JPM",
@@ -3243,8 +3243,8 @@
       "previous_close": 333.17999267578125,
       "change": -0.79998779296875,
       "change_pct": -0.24010679229086282,
-      "volume": 6062173,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6527169,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KVUE",
@@ -3256,7 +3256,7 @@
       "change": -0.019998550415039062,
       "change_pct": -0.11613560518280476,
       "volume": 13915828,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KDP",
@@ -3268,7 +3268,7 @@
       "change": -0.31999969482421875,
       "change_pct": -1.0426839011263798,
       "volume": 9906517,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KEY",
@@ -3279,20 +3279,20 @@
       "previous_close": 20.049999237060547,
       "change": 0.030000686645507812,
       "change_pct": 0.14962936552164227,
-      "volume": 12236438,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 12450261,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KEYS",
       "name": "Keysight Technologies",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 384.6300048828125,
+      "price": 384.6400146484375,
       "previous_close": 373.8800048828125,
-      "change": 10.75,
-      "change_pct": 2.875254054671749,
-      "volume": 969427,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 10.760009765625,
+      "change_pct": 2.877931321574037,
+      "volume": 1248067,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KMB",
@@ -3304,7 +3304,7 @@
       "change": 0.0200042724609375,
       "change_pct": 0.02120444481393625,
       "volume": 4442880,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KIM",
@@ -3315,8 +3315,8 @@
       "previous_close": 22.209999084472656,
       "change": 0.030000686645507812,
       "change_pct": 0.13507738803322034,
-      "volume": 4146404,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 4511694,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KMI",
@@ -3327,8 +3327,8 @@
       "previous_close": 30.530000686645508,
       "change": 0.5399990081787109,
       "change_pct": 1.768748758708408,
-      "volume": 9705750,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 11618443,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KKR",
@@ -3339,8 +3339,8 @@
       "previous_close": 91.23999786376953,
       "change": -0.9499969482421875,
       "change_pct": -1.041206675235381,
-      "volume": 4637337,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 4730433,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KLAC",
@@ -3352,7 +3352,7 @@
       "change": 6.55999755859375,
       "change_pct": 3.274595666467385,
       "volume": 7298740,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KHC",
@@ -3363,8 +3363,8 @@
       "previous_close": 22.459999084472656,
       "change": -0.26999855041503906,
       "change_pct": -1.2021307276085242,
-      "volume": 12385623,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 12583812,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "KR",
@@ -3375,8 +3375,8 @@
       "previous_close": 59.47999954223633,
       "change": -0.4500007629394531,
       "change_pct": -0.7565581143286841,
-      "volume": 4559018,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 4691595,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LHX",
@@ -3387,8 +3387,8 @@
       "previous_close": 238.39999389648438,
       "change": -1.79998779296875,
       "change_pct": -0.7550284559782003,
-      "volume": 1420775,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1525887,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LH",
@@ -3399,8 +3399,8 @@
       "previous_close": 304.6000061035156,
       "change": 3.889984130859375,
       "change_pct": 1.277079465828178,
-      "volume": 556224,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 586944,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LRCX",
@@ -3412,7 +3412,7 @@
       "change": 7.389984130859375,
       "change_pct": 2.1728856213575303,
       "volume": 7423415,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LVS",
@@ -3423,8 +3423,8 @@
       "previous_close": 36.689998626708984,
       "change": -0.45999908447265625,
       "change_pct": -1.253745166776304,
-      "volume": 7225807,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7311642,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LDOS",
@@ -3435,8 +3435,8 @@
       "previous_close": 121.97000122070312,
       "change": -4.230003356933594,
       "change_pct": -3.4680686354011407,
-      "volume": 857288,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 890211,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LEN",
@@ -3447,8 +3447,8 @@
       "previous_close": 82.11000061035156,
       "change": -2.3000030517578125,
       "change_pct": -2.801124144027655,
-      "volume": 8936411,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 9008478,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LII",
@@ -3459,8 +3459,8 @@
       "previous_close": 360.4599914550781,
       "change": -4.160003662109375,
       "change_pct": -1.1540819399447304,
-      "volume": 497645,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 504880,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LLY",
@@ -3471,8 +3471,8 @@
       "previous_close": 1149.8499755859375,
       "change": -7.0,
       "change_pct": -0.6087750705419599,
-      "volume": 1841987,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2015883,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LIN",
@@ -3484,7 +3484,7 @@
       "change": 10.029998779296875,
       "change_pct": 2.136542447223021,
       "volume": 2526831,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LYV",
@@ -3496,7 +3496,7 @@
       "change": 1.9199981689453125,
       "change_pct": 1.1507330528679298,
       "volume": 2067519,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LMT",
@@ -3507,8 +3507,8 @@
       "previous_close": 505.5,
       "change": -0.089996337890625,
       "change_pct": -0.017803429849777445,
-      "volume": 1036289,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1059789,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "L",
@@ -3519,20 +3519,20 @@
       "previous_close": 105.05000305175781,
       "change": 0.9799957275390625,
       "change_pct": 0.932885006253852,
-      "volume": 777374,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 839551,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LOW",
       "name": "Lowe's",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 180.86000061035156,
+      "price": 180.8000030517578,
       "previous_close": 182.3800048828125,
-      "change": -1.5200042724609375,
-      "change_pct": -0.8334270379242559,
-      "volume": 2100817,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.5800018310546875,
+      "change_pct": -0.8663240425231434,
+      "volume": 2749590,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LULU",
@@ -3544,7 +3544,7 @@
       "change": -1.4000015258789062,
       "change_pct": -1.4604647579438106,
       "volume": 5812044,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LITE",
@@ -3556,31 +3556,31 @@
       "change": 39.6400146484375,
       "change_pct": 3.790473477973113,
       "volume": 4636272,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LYB",
       "name": "LyondellBasell",
       "sector": "Materials",
       "exchange": "US",
-      "price": 58.599998474121094,
+      "price": 58.58000183105469,
       "previous_close": 57.779998779296875,
-      "change": 0.8199996948242188,
-      "change_pct": 1.4191756873453456,
-      "volume": 2201882,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.8000030517578125,
+      "change_pct": 1.384567443162462,
+      "volume": 3478963,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MTB",
       "name": "M&T Bank",
       "sector": "Financials",
       "exchange": "US",
-      "price": 219.1699981689453,
+      "price": 219.13999938964844,
       "previous_close": 217.35000610351562,
-      "change": 1.8199920654296875,
-      "change_pct": 0.8373554241185039,
-      "volume": 647343,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.7899932861328125,
+      "change_pct": 0.8235533636379591,
+      "volume": 916197,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MPC",
@@ -3591,8 +3591,8 @@
       "previous_close": 420.1499938964844,
       "change": 2.17999267578125,
       "change_pct": 0.518860575377838,
-      "volume": 2110938,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2162721,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MAR",
@@ -3604,19 +3604,19 @@
       "change": 4.16998291015625,
       "change_pct": 1.1753383155456776,
       "volume": 874270,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MRSH",
       "name": "Marsh McLennan",
       "sector": "Financials",
       "exchange": "US",
-      "price": 170.10000610351562,
+      "price": 170.05999755859375,
       "previous_close": 171.85000610351562,
-      "change": -1.75,
-      "change_pct": -1.0183299027326593,
-      "volume": 2070287,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.790008544921875,
+      "change_pct": -1.0416109871090984,
+      "volume": 2921503,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MLM",
@@ -3628,7 +3628,7 @@
       "change": 3.0999755859375,
       "change_pct": 0.6469469080007487,
       "volume": 727314,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MRVL",
@@ -3640,7 +3640,7 @@
       "change": 4.21002197265625,
       "change_pct": 1.570435013253541,
       "volume": 14688256,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MAS",
@@ -3651,8 +3651,8 @@
       "previous_close": 68.27999877929688,
       "change": 0.0800018310546875,
       "change_pct": 0.11716730006583538,
-      "volume": 1261521,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1324061,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MA",
@@ -3663,8 +3663,8 @@
       "previous_close": 550.0,
       "change": 2.260009765625,
       "change_pct": 0.41091086647727276,
-      "volume": 2297676,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2451039,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MKC",
@@ -3675,8 +3675,8 @@
       "previous_close": 44.13999938964844,
       "change": 0.529998779296875,
       "change_pct": 1.2007222170944762,
-      "volume": 5394061,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 5447966,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MCD",
@@ -3687,8 +3687,8 @@
       "previous_close": 231.8300018310547,
       "change": 0.05999755859375,
       "change_pct": 0.025879980209581765,
-      "volume": 6143702,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6336711,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MCK",
@@ -3699,8 +3699,8 @@
       "previous_close": 898.8200073242188,
       "change": 3.46002197265625,
       "change_pct": 0.3849515970340616,
-      "volume": 763440,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 775530,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MDT",
@@ -3711,8 +3711,8 @@
       "previous_close": 86.44000244140625,
       "change": -0.06000518798828125,
       "change_pct": -0.06941830899294114,
-      "volume": 33045566,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 33217669,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MRK",
@@ -3724,7 +3724,7 @@
       "change": 0.4900054931640625,
       "change_pct": 0.3407311741065953,
       "volume": 9153158,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "META",
@@ -3736,7 +3736,7 @@
       "change": 2.1500244140625,
       "change_pct": 0.29617517333007554,
       "volume": 12853875,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MET",
@@ -3747,8 +3747,8 @@
       "previous_close": 94.3499984741211,
       "change": 0.0800018310546875,
       "change_pct": 0.08479261510177014,
-      "volume": 2817925,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2973632,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MTD",
@@ -3759,8 +3759,8 @@
       "previous_close": 1481.1700439453125,
       "change": 5.0198974609375,
       "change_pct": 0.33891432529693016,
-      "volume": 122046,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 125506,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MGM",
@@ -3771,8 +3771,8 @@
       "previous_close": 30.469999313354492,
       "change": 0.010000228881835938,
       "change_pct": 0.032819918303880646,
-      "volume": 4016163,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 4081683,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MCHP",
@@ -3784,7 +3784,7 @@
       "change": 2.8199996948242188,
       "change_pct": 3.5923562991391322,
       "volume": 7725151,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MU",
@@ -3796,7 +3796,7 @@
       "change": -22.5,
       "change_pct": -2.0503193668304114,
       "volume": 26462694,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MSFT",
@@ -3808,19 +3808,19 @@
       "change": 4.73004150390625,
       "change_pct": 0.9223950110185838,
       "volume": 17127841,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MAA",
       "name": "Mid-America Apartment Communities",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 115.22000122070312,
+      "price": 115.2699966430664,
       "previous_close": 116.37999725341797,
-      "change": -1.1599960327148438,
-      "change_pct": -0.9967314487806243,
-      "volume": 960581,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.1100006103515625,
+      "change_pct": -0.9537726727510838,
+      "volume": 1454680,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MRNA",
@@ -3832,7 +3832,7 @@
       "change": 1.0699920654296875,
       "change_pct": 0.5663131425868969,
       "volume": 10232461,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MDLZ",
@@ -3844,7 +3844,7 @@
       "change": 0.43000030517578125,
       "change_pct": 0.7444603837799544,
       "volume": 7771229,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MPWR",
@@ -3856,7 +3856,7 @@
       "change": 78.760009765625,
       "change_pct": 5.787049785156891,
       "volume": 689920,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MNST",
@@ -3868,7 +3868,7 @@
       "change": 0.7999992370605469,
       "change_pct": 1.898432009130651,
       "volume": 7723544,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MCO",
@@ -3880,7 +3880,7 @@
       "change": -6.0,
       "change_pct": -1.3412017606547528,
       "volume": 1601766,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MS",
@@ -3892,7 +3892,7 @@
       "change": 2.3000030517578125,
       "change_pct": 1.2233408430178885,
       "volume": 6251505,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MOS",
@@ -3903,8 +3903,8 @@
       "previous_close": 21.549999237060547,
       "change": -0.4799995422363281,
       "change_pct": -2.2273761449181415,
-      "volume": 7693761,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7812188,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MSI",
@@ -3915,8 +3915,8 @@
       "previous_close": 448.0299987792969,
       "change": -0.6199951171875,
       "change_pct": -0.13838250092108553,
-      "volume": 594922,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 613006,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "MSCI",
@@ -3927,8 +3927,8 @@
       "previous_close": 545.3900146484375,
       "change": -9.44000244140625,
       "change_pct": -1.7308718876144709,
-      "volume": 437159,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 483761,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NDAQ",
@@ -3940,7 +3940,7 @@
       "change": -1.339996337890625,
       "change_pct": -1.4617610610409832,
       "volume": 3361110,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NTAP",
@@ -3952,7 +3952,7 @@
       "change": 11.220001220703125,
       "change_pct": 5.217391797945112,
       "volume": 4740078,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NFLX",
@@ -3964,7 +3964,7 @@
       "change": -0.7900009155273438,
       "change_pct": -1.1643344632183903,
       "volume": 38222095,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NEM",
@@ -3975,8 +3975,8 @@
       "previous_close": 114.66999816894531,
       "change": 0.8899993896484375,
       "change_pct": 0.7761397086072904,
-      "volume": 3788050,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 4014455,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NWSA",
@@ -3988,7 +3988,7 @@
       "change": 0.05000114440917969,
       "change_pct": 0.17458500514930864,
       "volume": 3248490,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NWS",
@@ -4000,7 +4000,7 @@
       "change": 0.1999988555908203,
       "change_pct": 0.6359263934470174,
       "volume": 790130,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NEE",
@@ -4011,8 +4011,8 @@
       "previous_close": 76.3499984741211,
       "change": 0.48000335693359375,
       "change_pct": 0.6286881028508354,
-      "volume": 13254356,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 17494683,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NKE",
@@ -4023,8 +4023,8 @@
       "previous_close": 35.150001525878906,
       "change": -1.2800025939941406,
       "change_pct": -3.641543494818198,
-      "volume": 134970285,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 141681072,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NI",
@@ -4035,8 +4035,8 @@
       "previous_close": 39.5,
       "change": -0.06999969482421875,
       "change_pct": -0.17721441727650317,
-      "volume": 4067389,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 4151760,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NDSN",
@@ -4048,7 +4048,7 @@
       "change": 4.52001953125,
       "change_pct": 1.3737826521725944,
       "volume": 315132,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NSC",
@@ -4060,7 +4060,7 @@
       "change": 7.17999267578125,
       "change_pct": 2.3141856667912575,
       "volume": 1074766,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NTRS",
@@ -4072,7 +4072,7 @@
       "change": 2.1999969482421875,
       "change_pct": 1.3002346264315598,
       "volume": 1054321,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NOC",
@@ -4083,8 +4083,8 @@
       "previous_close": 482.0,
       "change": -4.0,
       "change_pct": -0.8298755186721992,
-      "volume": 2654678,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2671906,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NCLH",
@@ -4095,8 +4095,8 @@
       "previous_close": 14.640000343322754,
       "change": 0.5,
       "change_pct": 3.4153004663558493,
-      "volume": 31045968,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 31152928,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NRG",
@@ -4107,8 +4107,8 @@
       "previous_close": 96.93000030517578,
       "change": -1.6999969482421875,
       "change_pct": -1.7538398255337804,
-      "volume": 3275953,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3309801,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NUE",
@@ -4119,8 +4119,8 @@
       "previous_close": 235.97999572753906,
       "change": 4.410003662109375,
       "change_pct": 1.8688040265926336,
-      "volume": 1001603,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1049968,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NVDA",
@@ -4132,19 +4132,19 @@
       "change": 3.089996337890625,
       "change_pct": 1.3384719439145978,
       "volume": 134182701,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NVR",
       "name": "NVR, Inc.",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 5992.759765625,
+      "price": 5993.85009765625,
       "previous_close": 6126.3798828125,
-      "change": -133.6201171875,
-      "change_pct": -2.1810615688780572,
-      "volume": 34382,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -132.52978515625,
+      "change_pct": -2.163264239099195,
+      "volume": 40720,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NXPI",
@@ -4156,7 +4156,7 @@
       "change": 4.470001220703125,
       "change_pct": 1.8688077156561462,
       "volume": 2668292,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ORLY",
@@ -4168,7 +4168,7 @@
       "change": -0.12999725341796875,
       "change_pct": -0.15288398833850214,
       "volume": 3643280,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "OXY",
@@ -4179,8 +4179,8 @@
       "previous_close": 57.84000015258789,
       "change": 0.24000167846679688,
       "change_pct": 0.4149406601549925,
-      "volume": 8579797,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 8869855,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ODFL",
@@ -4192,7 +4192,7 @@
       "change": 2.3799896240234375,
       "change_pct": 1.3363220339476773,
       "volume": 1948437,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "OMC",
@@ -4203,8 +4203,8 @@
       "previous_close": 74.69999694824219,
       "change": -0.5499954223632812,
       "change_pct": -0.7362723491734005,
-      "volume": 1889054,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1943708,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ON",
@@ -4216,7 +4216,7 @@
       "change": 4.80999755859375,
       "change_pct": 6.00649032044409,
       "volume": 22877139,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "OKE",
@@ -4227,8 +4227,8 @@
       "previous_close": 87.16000366210938,
       "change": 0.7199935913085938,
       "change_pct": 0.8260596157152215,
-      "volume": 3324371,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3572062,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ORCL",
@@ -4240,7 +4240,7 @@
       "change": 4.2299957275390625,
       "change_pct": 3.0636601022306764,
       "volume": 30145516,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "OTIS",
@@ -4251,8 +4251,8 @@
       "previous_close": 64.4800033569336,
       "change": -0.43000030517578125,
       "change_pct": -0.6668738877004772,
-      "volume": 4807550,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6046379,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PCAR",
@@ -4264,7 +4264,7 @@
       "change": -0.26000213623046875,
       "change_pct": -0.2364945701807127,
       "volume": 4328535,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PKG",
@@ -4275,8 +4275,8 @@
       "previous_close": 229.7100067138672,
       "change": -1.170013427734375,
       "change_pct": -0.5093436914099151,
-      "volume": 512969,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 529658,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PLTR",
@@ -4288,7 +4288,7 @@
       "change": -1.2899932861328125,
       "change_pct": -0.6788009533290923,
       "volume": 17693177,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PANW",
@@ -4300,7 +4300,7 @@
       "change": 6.989990234375,
       "change_pct": 1.7640353903785488,
       "volume": 4824185,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PSKY",
@@ -4312,7 +4312,7 @@
       "change": 0.15999984741210938,
       "change_pct": 1.7130604368114195,
       "volume": 37219774,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PH",
@@ -4323,8 +4323,8 @@
       "previous_close": 965.8800048828125,
       "change": 6.66998291015625,
       "change_pct": 0.6905602017266628,
-      "volume": 330998,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 342733,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PAYX",
@@ -4336,7 +4336,7 @@
       "change": -1.899993896484375,
       "change_pct": -1.884166962995468,
       "volume": 2308499,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PYPL",
@@ -4348,7 +4348,7 @@
       "change": -0.26000213623046875,
       "change_pct": -0.49001532133647263,
       "volume": 8998545,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PNR",
@@ -4359,8 +4359,8 @@
       "previous_close": 52.880001068115234,
       "change": 0.14999771118164062,
       "change_pct": 0.28365678546115597,
-      "volume": 2200673,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2255918,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PEP",
@@ -4372,19 +4372,19 @@
       "change": 0.29000091552734375,
       "change_pct": 0.23089245147331444,
       "volume": 6065389,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PFE",
       "name": "Pfizer",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 27.795000076293945,
+      "price": 27.799999237060547,
       "previous_close": 28.1200008392334,
-      "change": -0.3250007629394531,
-      "change_pct": -1.1557637028445877,
-      "volume": 27424568,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.32000160217285156,
+      "change_pct": -1.1379857490131404,
+      "volume": 34907571,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PCG",
@@ -4395,8 +4395,8 @@
       "previous_close": 12.170000076293945,
       "change": 0.14999961853027344,
       "change_pct": 1.232535888166994,
-      "volume": 39753863,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 41478503,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PM",
@@ -4407,8 +4407,8 @@
       "previous_close": 188.17999267578125,
       "change": -0.7199859619140625,
       "change_pct": -0.38260494735725675,
-      "volume": 2881551,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3051955,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PSX",
@@ -4419,8 +4419,8 @@
       "previous_close": 264.2300109863281,
       "change": 0.3499755859375,
       "change_pct": 0.1324511112992417,
-      "volume": 1918972,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1982408,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PNW",
@@ -4432,7 +4432,7 @@
       "change": 1.2900009155273438,
       "change_pct": 1.3632050649570844,
       "volume": 1952753,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PNC",
@@ -4443,8 +4443,8 @@
       "previous_close": 220.75,
       "change": 0.279998779296875,
       "change_pct": 0.12683976412089468,
-      "volume": 1633063,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1854316,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PPG",
@@ -4455,8 +4455,8 @@
       "previous_close": 104.66999816894531,
       "change": 0.48000335693359375,
       "change_pct": 0.45858733670639024,
-      "volume": 1011270,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1091632,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PPL",
@@ -4467,8 +4467,8 @@
       "previous_close": 32.7599983215332,
       "change": 0.04000091552734375,
       "change_pct": 0.12210292300610735,
-      "volume": 5975130,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6050664,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PFG",
@@ -4480,7 +4480,7 @@
       "change": -0.279998779296875,
       "change_pct": -0.2494643483838279,
       "volume": 1094883,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PG",
@@ -4491,8 +4491,8 @@
       "previous_close": 143.9499969482422,
       "change": 0.9600067138671875,
       "change_pct": 0.6669029067172275,
-      "volume": 5864753,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6211162,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PGR",
@@ -4503,8 +4503,8 @@
       "previous_close": 210.9600067138672,
       "change": -0.6500091552734375,
       "change_pct": -0.3081196125268752,
-      "volume": 2289092,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2728062,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PLD",
@@ -4516,7 +4516,7 @@
       "change": 0.730010986328125,
       "change_pct": 0.5695202278366612,
       "volume": 3811284,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PRU",
@@ -4527,8 +4527,8 @@
       "previous_close": 113.12999725341797,
       "change": -0.529998779296875,
       "change_pct": -0.46848651300648936,
-      "volume": 1815401,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1873290,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PEG",
@@ -4540,7 +4540,7 @@
       "change": 0.18000030517578125,
       "change_pct": 0.2651352287436121,
       "volume": 5407694,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PTC",
@@ -4552,7 +4552,7 @@
       "change": -2.44000244140625,
       "change_pct": -1.6658717970034143,
       "volume": 1119619,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PSA",
@@ -4563,20 +4563,20 @@
       "previous_close": 284.0,
       "change": -0.19000244140625,
       "change_pct": -0.06690226810079225,
-      "volume": 781699,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 816454,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PHM",
       "name": "PulteGroup",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 115.66000366210938,
+      "price": 115.7300033569336,
       "previous_close": 116.3499984741211,
-      "change": -0.6899948120117188,
-      "change_pct": -0.5930337954969457,
-      "volume": 1277907,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.6199951171875,
+      "change_pct": -0.5328707566123442,
+      "volume": 1722358,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "PWR",
@@ -4587,8 +4587,8 @@
       "previous_close": 662.5999755859375,
       "change": 13.96002197265625,
       "change_pct": 2.106855189711016,
-      "volume": 847601,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 865835,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "QCOM",
@@ -4600,7 +4600,7 @@
       "change": 2.779998779296875,
       "change_pct": 1.5267169175720348,
       "volume": 10073572,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DGX",
@@ -4611,8 +4611,8 @@
       "previous_close": 231.08999633789062,
       "change": 2.2400054931640625,
       "change_pct": 0.9693217052497658,
-      "volume": 810746,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1016372,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "Q",
@@ -4623,8 +4623,8 @@
       "previous_close": 128.4499969482422,
       "change": 3.029998779296875,
       "change_pct": 2.358893617193145,
-      "volume": 1135922,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1161603,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RL",
@@ -4636,7 +4636,7 @@
       "change": 0.709991455078125,
       "change_pct": 0.19577329948400504,
       "volume": 558774,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RJF",
@@ -4647,20 +4647,20 @@
       "previous_close": 159.75999450683594,
       "change": -1.54998779296875,
       "change_pct": -0.9701977004652612,
-      "volume": 868823,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 905543,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RDDT",
       "name": "Reddit",
       "sector": "Communication Services",
       "exchange": "US",
-      "price": 147.85000610351562,
+      "price": 147.86000061035156,
       "previous_close": 149.52999877929688,
-      "change": -1.67999267578125,
-      "change_pct": -1.1235154748184568,
-      "volume": 2743603,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.6699981689453125,
+      "change_pct": -1.1168315271708085,
+      "volume": 3082238,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RTX",
@@ -4671,8 +4671,8 @@
       "previous_close": 185.00999450683594,
       "change": -0.3300018310546875,
       "change_pct": -0.17836973182683613,
-      "volume": 3453333,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3790176,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "O",
@@ -4683,8 +4683,8 @@
       "previous_close": 53.529998779296875,
       "change": 0.6000022888183594,
       "change_pct": 1.1208711049894788,
-      "volume": 7287730,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7646310,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "REG",
@@ -4696,7 +4696,7 @@
       "change": -0.20000457763671875,
       "change_pct": -0.27855789573232087,
       "volume": 1133584,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "REGN",
@@ -4708,7 +4708,7 @@
       "change": 0.3900146484375,
       "change_pct": 0.05307693821985598,
       "volume": 607699,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RF",
@@ -4719,8 +4719,8 @@
       "previous_close": 26.959999084472656,
       "change": 0.1400012969970703,
       "change_pct": 0.5192926622824059,
-      "volume": 9406662,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 9979534,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RSG",
@@ -4731,8 +4731,8 @@
       "previous_close": 206.97999572753906,
       "change": 2.5800018310546875,
       "change_pct": 1.246498156493784,
-      "volume": 1139439,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1175915,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RMD",
@@ -4743,8 +4743,8 @@
       "previous_close": 221.14999389648438,
       "change": -2.2599945068359375,
       "change_pct": -1.021928360483606,
-      "volume": 814605,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 848732,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RVTY",
@@ -4756,7 +4756,7 @@
       "change": 2.470001220703125,
       "change_pct": 1.6570516980802956,
       "volume": 1235180,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "HOOD",
@@ -4768,19 +4768,19 @@
       "change": 1.589996337890625,
       "change_pct": 1.4304960108528908,
       "volume": 29160095,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ROK",
       "name": "Rockwell Automation",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 454.4599914550781,
+      "price": 454.3500061035156,
       "previous_close": 442.45001220703125,
-      "change": 12.009979248046875,
-      "change_pct": 2.714426244026673,
-      "volume": 514590,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 11.899993896484375,
+      "change_pct": 2.68956798918928,
+      "volume": 664610,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ROL",
@@ -4791,8 +4791,8 @@
       "previous_close": 30.56999969482422,
       "change": -0.4099998474121094,
       "change_pct": -1.341183681730707,
-      "volume": 5421129,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 5507023,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ROP",
@@ -4804,7 +4804,7 @@
       "change": -8.269989013671875,
       "change_pct": -2.28081003259815,
       "volume": 751726,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ROST",
@@ -4816,7 +4816,7 @@
       "change": -5.5600128173828125,
       "change_pct": -2.37505880923568,
       "volume": 2294496,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "RCL",
@@ -4828,7 +4828,7 @@
       "change": 7.75,
       "change_pct": 2.870476788147709,
       "volume": 3388674,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SPGI",
@@ -4839,8 +4839,8 @@
       "previous_close": 388.1600036621094,
       "change": -1.8900146484375,
       "change_pct": -0.48691638257576497,
-      "volume": 2302047,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2762263,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "CRM",
@@ -4851,8 +4851,8 @@
       "previous_close": 236.69000244140625,
       "change": -2.0,
       "change_pct": -0.8449871052306528,
-      "volume": 7076736,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7838664,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SNDK",
@@ -4864,7 +4864,7 @@
       "change": -67.699951171875,
       "change_pct": -3.7870074448492006,
       "volume": 8118990,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SBAC",
@@ -4876,7 +4876,7 @@
       "change": 0.470001220703125,
       "change_pct": 0.2974314694313895,
       "volume": 813257,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SLB",
@@ -4887,8 +4887,8 @@
       "previous_close": 48.65999984741211,
       "change": 0.0800018310546875,
       "change_pct": 0.16440984649724008,
-      "volume": 9822684,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 11141125,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "STX",
@@ -4900,19 +4900,19 @@
       "change": -96.58001708984375,
       "change_pct": -10.213946756110277,
       "volume": 13503422,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SRE",
       "name": "Sempra",
       "sector": "Utilities",
       "exchange": "US",
-      "price": 78.37000274658203,
+      "price": 78.37999725341797,
       "previous_close": 78.05000305175781,
-      "change": 0.31999969482421875,
-      "change_pct": 0.40999318681898733,
-      "volume": 1829991,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 0.32999420166015625,
+      "change_pct": 0.42279844811963047,
+      "volume": 2940061,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "NOW",
@@ -4923,8 +4923,8 @@
       "previous_close": 137.75999450683594,
       "change": -3.3799896240234375,
       "change_pct": -2.4535349584786137,
-      "volume": 8487784,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 8720523,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SHW",
@@ -4935,8 +4935,8 @@
       "previous_close": 320.7799987792969,
       "change": -1.269989013671875,
       "change_pct": -0.39590654607666265,
-      "volume": 1455985,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1568664,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SPG",
@@ -4947,8 +4947,8 @@
       "previous_close": 200.80999755859375,
       "change": 0.1399993896484375,
       "change_pct": 0.06971734044645238,
-      "volume": 1084710,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1224280,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SWKS",
@@ -4960,7 +4960,7 @@
       "change": 1.8699951171875,
       "change_pct": 2.248671278064813,
       "volume": 8665691,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SJM",
@@ -4971,8 +4971,8 @@
       "previous_close": 115.94999694824219,
       "change": 1.2400054931640625,
       "change_pct": 1.0694312426050143,
-      "volume": 1104053,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1139583,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SW",
@@ -4983,8 +4983,8 @@
       "previous_close": 43.040000915527344,
       "change": -0.5,
       "change_pct": -1.161710012463353,
-      "volume": 3206660,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3271224,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SNA",
@@ -4995,8 +4995,8 @@
       "previous_close": 367.7200012207031,
       "change": 1.17999267578125,
       "change_pct": 0.32089434130971467,
-      "volume": 214828,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 232035,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SOLV",
@@ -5007,8 +5007,8 @@
       "previous_close": 87.7699966430664,
       "change": 0.0800018310546875,
       "change_pct": 0.0911494065335679,
-      "volume": 787584,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 878618,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SO",
@@ -5019,8 +5019,8 @@
       "previous_close": 83.47000122070312,
       "change": 0.25,
       "change_pct": 0.2995088011787309,
-      "volume": 5291059,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7744969,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "LUV",
@@ -5031,8 +5031,8 @@
       "previous_close": 41.84000015258789,
       "change": 0.6300010681152344,
       "change_pct": 1.505738685032647,
-      "volume": 6092497,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6168911,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SWK",
@@ -5043,8 +5043,8 @@
       "previous_close": 89.58999633789062,
       "change": 1.75,
       "change_pct": 1.953343086877509,
-      "volume": 1612989,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1710535,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SBUX",
@@ -5056,19 +5056,19 @@
       "change": -0.1699981689453125,
       "change_pct": -0.17917176840895035,
       "volume": 5904482,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "STT",
       "name": "State Street Corporation",
       "sector": "Financials",
       "exchange": "US",
-      "price": 176.00999450683594,
+      "price": 175.9600067138672,
       "previous_close": 174.6199951171875,
-      "change": 1.3899993896484375,
-      "change_pct": 0.7960138749950193,
-      "volume": 1029897,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 1.3400115966796875,
+      "change_pct": 0.7673872604224995,
+      "volume": 1618367,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "STLD",
@@ -5080,7 +5080,7 @@
       "change": 5.82000732421875,
       "change_pct": 2.573288840844089,
       "volume": 572890,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "STE",
@@ -5091,8 +5091,8 @@
       "previous_close": 209.33999633789062,
       "change": -0.8000030517578125,
       "change_pct": -0.3821548990889189,
-      "volume": 650690,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 675312,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SYK",
@@ -5103,8 +5103,8 @@
       "previous_close": 272.9599914550781,
       "change": 2.470001220703125,
       "change_pct": 0.9048949655721326,
-      "volume": 1823798,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1945755,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SMCI",
@@ -5116,7 +5116,7 @@
       "change": 1.7700004577636719,
       "change_pct": 4.222329520698556,
       "volume": 42743319,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SYF",
@@ -5127,8 +5127,8 @@
       "previous_close": 71.51000213623047,
       "change": 0.2599945068359375,
       "change_pct": 0.3635778199819289,
-      "volume": 2495788,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2584141,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SNPS",
@@ -5140,7 +5140,7 @@
       "change": -0.6400146484375,
       "change_pct": -0.13047144723953535,
       "volume": 2167212,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "SYY",
@@ -5151,8 +5151,8 @@
       "previous_close": 77.7699966430664,
       "change": -0.279998779296875,
       "change_pct": -0.36003444950879826,
-      "volume": 3240524,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3843464,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TMUS",
@@ -5164,7 +5164,7 @@
       "change": 1.910003662109375,
       "change_pct": 1.1809829422904903,
       "volume": 3304684,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TROW",
@@ -5176,7 +5176,7 @@
       "change": -1.2099990844726562,
       "change_pct": -1.143342212546003,
       "volume": 1617282,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TTWO",
@@ -5188,19 +5188,19 @@
       "change": -0.8899993896484375,
       "change_pct": -0.43708840535833654,
       "volume": 1562043,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TPR",
       "name": "Tapestry, Inc.",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 118.0999984741211,
+      "price": 118.12000274658203,
       "previous_close": 119.23999786376953,
-      "change": -1.1399993896484375,
-      "change_pct": -0.9560545203555565,
-      "volume": 2579423,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -1.1199951171875,
+      "change_pct": -0.939278041976387,
+      "volume": 3386142,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TRGP",
@@ -5211,8 +5211,8 @@
       "previous_close": 279.30999755859375,
       "change": 2.42999267578125,
       "change_pct": 0.8699984594255297,
-      "volume": 1089790,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1243043,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TGT",
@@ -5224,19 +5224,19 @@
       "change": -0.6999969482421875,
       "change_pct": -0.4467115264037915,
       "volume": 4086648,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TEL",
       "name": "TE Connectivity",
       "sector": "Information Technology",
       "exchange": "US",
-      "price": 220.42999267578125,
+      "price": 220.36000061035156,
       "previous_close": 217.75999450683594,
-      "change": 2.6699981689453125,
-      "change_pct": 1.2261196897033793,
-      "volume": 926282,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 2.600006103515625,
+      "change_pct": 1.1939778513513901,
+      "volume": 1271491,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TDY",
@@ -5247,8 +5247,8 @@
       "previous_close": 612.7000122070312,
       "change": 4.469970703125,
       "change_pct": 0.7295528993093275,
-      "volume": 176778,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 181325,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TER",
@@ -5260,7 +5260,7 @@
       "change": 33.25,
       "change_pct": 7.996825156131108,
       "volume": 3355930,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TSLA",
@@ -5272,7 +5272,7 @@
       "change": 16.480010986328125,
       "change_pct": 4.653924393000856,
       "volume": 53897748,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TXN",
@@ -5284,7 +5284,7 @@
       "change": 12.489990234375,
       "change_pct": 4.43993826837721,
       "volume": 4920020,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TPL",
@@ -5295,20 +5295,20 @@
       "previous_close": 336.4599914550781,
       "change": 3.730010986328125,
       "change_pct": 1.1086046130468772,
-      "volume": 275636,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 290514,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TXT",
       "name": "Textron",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 77.25,
+      "price": 77.26000213623047,
       "previous_close": 77.16999816894531,
-      "change": 0.0800018310546875,
-      "change_pct": 0.10366960341186295,
+      "change": 0.09000396728515625,
+      "change_pct": 0.11663077545772907,
       "volume": 2205460,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TMO",
@@ -5320,19 +5320,19 @@
       "change": 2.28997802734375,
       "change_pct": 0.35094910316644595,
       "volume": 1662561,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TJX",
       "name": "TJX Companies",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 132.74000549316406,
+      "price": 132.67999267578125,
       "previous_close": 133.58999633789062,
-      "change": -0.8499908447265625,
-      "change_pct": -0.636268334476686,
+      "change": -0.910003662109375,
+      "change_pct": -0.6811914717084749,
       "volume": 6933279,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TKO",
@@ -5343,8 +5343,8 @@
       "previous_close": 176.0399932861328,
       "change": -0.459991455078125,
       "change_pct": -0.2612994050337537,
-      "volume": 903713,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 918983,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TSCO",
@@ -5356,19 +5356,19 @@
       "change": -0.6399993896484375,
       "change_pct": -2.017016699910518,
       "volume": 10936170,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TT",
       "name": "Trane Technologies",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 463.989990234375,
+      "price": 463.9100036621094,
       "previous_close": 458.94000244140625,
-      "change": 5.04998779296875,
-      "change_pct": 1.1003590373697032,
-      "volume": 937346,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": 4.970001220703125,
+      "change_pct": 1.0829304907535608,
+      "volume": 1230820,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TDG",
@@ -5379,8 +5379,8 @@
       "previous_close": 1097.239990234375,
       "change": -6.8599853515625,
       "change_pct": -0.6252037305072319,
-      "volume": 270824,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 277803,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TRV",
@@ -5391,8 +5391,8 @@
       "previous_close": 361.6400146484375,
       "change": -1.260009765625,
       "change_pct": -0.3484154724553637,
-      "volume": 785191,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 839685,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TRMB",
@@ -5404,7 +5404,7 @@
       "change": -0.009998321533203125,
       "change_pct": -0.017379318173740665,
       "volume": 1994564,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TFC",
@@ -5416,7 +5416,7 @@
       "change": 0.17000198364257812,
       "change_pct": 0.3673335957792368,
       "volume": 8545869,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TYL",
@@ -5427,8 +5427,8 @@
       "previous_close": 330.17999267578125,
       "change": -7.3699951171875,
       "change_pct": -2.232114386296093,
-      "volume": 369374,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 378943,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "TSN",
@@ -5439,8 +5439,8 @@
       "previous_close": 50.470001220703125,
       "change": 1.4199981689453125,
       "change_pct": 2.8135489094516206,
-      "volume": 3216817,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3289841,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "USB",
@@ -5452,7 +5452,7 @@
       "change": 0.14999771118164062,
       "change_pct": 0.26150228309894935,
       "volume": 7519779,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "UBER",
@@ -5464,7 +5464,7 @@
       "change": 0.23000335693359375,
       "change_pct": 0.3388381942251955,
       "volume": 15462730,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "UDR",
@@ -5476,7 +5476,7 @@
       "change": -0.4099998474121094,
       "change_pct": -1.217339203376143,
       "volume": 3130328,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ULTA",
@@ -5488,7 +5488,7 @@
       "change": 5.96002197265625,
       "change_pct": 1.1083670595157777,
       "volume": 340541,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "UNP",
@@ -5500,7 +5500,7 @@
       "change": 5.8599853515625,
       "change_pct": 2.1510847451437316,
       "volume": 3034663,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "UAL",
@@ -5512,19 +5512,19 @@
       "change": 0.7300033569335938,
       "change_pct": 0.6530715377577907,
       "volume": 4013027,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "UPS",
       "name": "United Parcel Service",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 93.02999877929688,
+      "price": 93.0199966430664,
       "previous_close": 93.88999938964844,
-      "change": -0.8600006103515625,
-      "change_pct": -0.9159661475579681,
-      "volume": 3675639,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -0.8700027465820312,
+      "change_pct": -0.9266191844047991,
+      "volume": 4662005,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "URI",
@@ -5535,8 +5535,8 @@
       "previous_close": 1034.1099853515625,
       "change": 46.9300537109375,
       "change_pct": 4.538207190309923,
-      "volume": 528871,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 598400,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "UNH",
@@ -5547,8 +5547,8 @@
       "previous_close": 365.20001220703125,
       "change": 6.699981689453125,
       "change_pct": 1.8346060967968745,
-      "volume": 3070322,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3290157,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "UHS",
@@ -5559,8 +5559,8 @@
       "previous_close": 175.07000732421875,
       "change": 0.649993896484375,
       "change_pct": 0.37127655754342137,
-      "volume": 494676,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 537401,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VLO",
@@ -5571,20 +5571,20 @@
       "previous_close": 408.4599914550781,
       "change": -2.160003662109375,
       "change_pct": -0.5288164587221095,
-      "volume": 2530899,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2567610,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VEEV",
       "name": "Veeva Systems",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 273.29998779296875,
+      "price": 273.3299865722656,
       "previous_close": 281.92999267578125,
-      "change": -8.6300048828125,
-      "change_pct": -3.0610453328876517,
-      "volume": 906987,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "change": -8.600006103515625,
+      "change_pct": -3.0504048263519126,
+      "volume": 1077541,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VTR",
@@ -5595,8 +5595,8 @@
       "previous_close": 83.7300033569336,
       "change": 0.279998779296875,
       "change_pct": 0.3344067455763318,
-      "volume": 2668743,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2820857,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VLTO",
@@ -5607,8 +5607,8 @@
       "previous_close": 94.5999984741211,
       "change": 0.0800018310546875,
       "change_pct": 0.08456853313435614,
-      "volume": 1392340,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 1536264,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VRSN",
@@ -5620,7 +5620,7 @@
       "change": 1.420013427734375,
       "change_pct": 0.4949506650204831,
       "volume": 1241269,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VRSK",
@@ -5632,7 +5632,7 @@
       "change": -4.5,
       "change_pct": -2.6725263508169315,
       "volume": 825112,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VZ",
@@ -5643,8 +5643,8 @@
       "previous_close": 45.97999954223633,
       "change": -0.060001373291015625,
       "change_pct": -0.13049450606431506,
-      "volume": 18037837,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 19223192,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VRTX",
@@ -5656,7 +5656,7 @@
       "change": -2.009979248046875,
       "change_pct": -0.3966490284528815,
       "volume": 935660,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VRT",
@@ -5667,8 +5667,8 @@
       "previous_close": 246.1199951171875,
       "change": 6.05999755859375,
       "change_pct": 2.462212611254256,
-      "volume": 3247120,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3334795,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VTRS",
@@ -5680,7 +5680,7 @@
       "change": 0.1400012969970703,
       "change_pct": 0.8018402310317119,
       "volume": 7479321,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VICI",
@@ -5691,8 +5691,8 @@
       "previous_close": 22.729999542236328,
       "change": -0.07999992370605469,
       "change_pct": -0.35195743650324673,
-      "volume": 6919981,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 7641359,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "V",
@@ -5703,8 +5703,8 @@
       "previous_close": 359.8500061035156,
       "change": 0.80999755859375,
       "change_pct": 0.22509310680982553,
-      "volume": 3628580,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 3814392,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VST",
@@ -5715,8 +5715,8 @@
       "previous_close": 139.75,
       "change": 0.2700042724609375,
       "change_pct": 0.1932052039076476,
-      "volume": 12231788,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 12342449,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VMRK",
@@ -5727,8 +5727,8 @@
       "previous_close": 60.16999816894531,
       "change": -0.37999725341796875,
       "change_pct": -0.631539413298655,
-      "volume": 4428604,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 6490212,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "VMC",
@@ -5739,8 +5739,8 @@
       "previous_close": 243.97999572753906,
       "change": -0.9199981689453125,
       "change_pct": -0.377079344641315,
-      "volume": 870052,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 884078,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WRB",
@@ -5751,8 +5751,8 @@
       "previous_close": 68.9000015258789,
       "change": 0.0800018310546875,
       "change_pct": 0.11611295977205274,
-      "volume": 1643233,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "volume": 2234328,
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "GWW",
@@ -5764,19 +5764,19 @@
       "change": -1.3800048828125,
       "change_pct": -0.10767155803173152,
       "volume": 268892,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WAB",
       "name": "Wabtec",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 287.67999267578125,
+      "price": 287.5400085449219,
       "previous_close": 287.8399963378906,
-      "change": -0.160003662109375,
-      "change_pct": -0.055587709889194606,
+      "change": -0.29998779296875,
+      "change_pct": -0.10422032962250294,
       "volume": 904069,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WMT",
@@ -5788,19 +5788,19 @@
       "change": 0.0,
       "change_pct": 0.0,
       "volume": 22906730,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "DIS",
       "name": "Walt Disney Company (The)",
       "sector": "Communication Services",
       "exchange": "US",
-      "price": 102.19499969482422,
+      "price": 102.19000244140625,
       "previous_close": 101.33000183105469,
-      "change": 0.8649978637695312,
-      "change_pct": 0.8536443779125984,
+      "change": 0.8600006103515625,
+      "change_pct": 0.8487127156924589,
       "volume": 6523784,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WBD",
@@ -5812,7 +5812,7 @@
       "change": -0.010000228881835938,
       "change_pct": -0.03231091643076965,
       "volume": 49913978,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WM",
@@ -5824,19 +5824,19 @@
       "change": 2.5500030517578125,
       "change_pct": 1.2630030355846458,
       "volume": 2366083,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WAT",
       "name": "Waters Corporation",
       "sector": "Health Care",
       "exchange": "US",
-      "price": 425.32000732421875,
+      "price": 425.2099914550781,
       "previous_close": 425.5299987792969,
-      "change": -0.209991455078125,
-      "change_pct": -0.04934821415188593,
+      "change": -0.32000732421875,
+      "change_pct": -0.07520205981640399,
       "volume": 589699,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WEC",
@@ -5848,7 +5848,7 @@
       "change": -0.14000701904296875,
       "change_pct": -0.13762608318387157,
       "volume": 2745471,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WFC",
@@ -5860,19 +5860,19 @@
       "change": 0.1999969482421875,
       "change_pct": 0.24921738098714952,
       "volume": 10074003,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WELL",
       "name": "Welltower",
       "sector": "Real Estate",
       "exchange": "US",
-      "price": 227.75,
+      "price": 227.7100067138672,
       "previous_close": 226.94000244140625,
-      "change": 0.80999755859375,
-      "change_pct": 0.35692145495719013,
+      "change": 0.7700042724609375,
+      "change_pct": 0.339298609402168,
       "volume": 2636886,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WST",
@@ -5884,7 +5884,7 @@
       "change": -0.029998779296875,
       "change_pct": -0.008218618255465758,
       "volume": 471913,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WDC",
@@ -5896,7 +5896,7 @@
       "change": -47.269989013671875,
       "change_pct": -10.219212483389045,
       "volume": 24311750,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WY",
@@ -5908,19 +5908,19 @@
       "change": -0.12000083923339844,
       "change_pct": -0.6455128469522539,
       "volume": 7668315,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WSM",
       "name": "Williams-Sonoma, Inc.",
       "sector": "Consumer Discretionary",
       "exchange": "US",
-      "price": 232.2899932861328,
+      "price": 232.3000030517578,
       "previous_close": 233.38999938964844,
-      "change": -1.100006103515625,
-      "change_pct": -0.4713167258204354,
+      "change": -1.089996337890625,
+      "change_pct": -0.46702786783544153,
       "volume": 921479,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WMB",
@@ -5932,7 +5932,7 @@
       "change": 1.3199996948242188,
       "change_pct": 1.9069628308954982,
       "volume": 8276485,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WTW",
@@ -5944,7 +5944,7 @@
       "change": -2.990020751953125,
       "change_pct": -1.0253843242004912,
       "volume": 462788,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WDAY",
@@ -5956,7 +5956,7 @@
       "change": -0.6100006103515625,
       "change_pct": -0.3266402197330991,
       "volume": 1424161,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "WYNN",
@@ -5968,7 +5968,7 @@
       "change": -1.4200057983398438,
       "change_pct": -1.8370061349015077,
       "volume": 2177514,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "XEL",
@@ -5980,19 +5980,19 @@
       "change": 0.8499984741210938,
       "change_pct": 1.2048170621587455,
       "volume": 4561301,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "XYL",
       "name": "Xylem Inc.",
       "sector": "Industrials",
       "exchange": "US",
-      "price": 101.83999633789062,
+      "price": 101.79000091552734,
       "previous_close": 100.87999725341797,
-      "change": 0.9599990844726562,
-      "change_pct": 0.9516248122619076,
+      "change": 0.910003662109375,
+      "change_pct": 0.9020655103938781,
       "volume": 2253220,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "YUM",
@@ -6004,7 +6004,7 @@
       "change": -0.57000732421875,
       "change_pct": -0.4170073260940135,
       "volume": 1750744,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ZBRA",
@@ -6016,7 +6016,7 @@
       "change": 0.40997314453125,
       "change_pct": 0.10919513415947953,
       "volume": 331524,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ZBH",
@@ -6028,7 +6028,7 @@
       "change": 0.23000335693359375,
       "change_pct": 0.2611893746426158,
       "volume": 1982941,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     },
     {
       "ticker": "ZTS",
@@ -6040,7 +6040,7 @@
       "change": 0.5900039672851562,
       "change_pct": 0.8538407819301486,
       "volume": 5252668,
-      "as_of_kst": "2026-10-02 20:14:37"
+      "as_of_kst": "2026-10-02 20:45:43"
     }
   ]
 }
